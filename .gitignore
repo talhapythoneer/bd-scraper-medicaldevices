@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# scraped data and images (a small sample lives in sample/)
+output/
+*.zip
+*.7z
+*.jsonl
+*.log
+
+# client reference files
+screenshot*.png

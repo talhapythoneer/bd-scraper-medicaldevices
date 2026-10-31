@@ -1,0 +1,4216 @@
+{
+  "source": "https://www.bd.com/en-us (product sitemap)",
+  "scraped_at": "2026-10-30T19:15:37Z",
+  "total_products": 50,
+  "products": [
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.5626240",
+      "sku": "5626240",
+      "gtin": "00801741042164",
+      "title": "DuoGlide™ Short-Term Curved Extension Dialysis Catheter 13 Fr Full Procedure Tray (dual lumen) 24 cm insertion length",
+      "brand": "DuoGlide™",
+      "category": "Acute dialysis catheters",
+      "product_family": "DuoGlide™ Short-Term Dialysis Catheter",
+      "meta_description": "Learn more about DuoGlide™ Short-Term Dialysis Catheter and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/DuoGlide_Curved.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/DuoGlide_Curved.png",
+          "local_path": "images/5626240/5626240_01.png"
+        }
+      ],
+      "overview_text": "Dual lumen Kink-resistant catheter design Symmetrical tip Catheter length options Maximal barrier trays Straight or curved extension legs",
+      "overview_html": "<ul><li>Dual lumen</li><li>Kink-resistant catheter design</li><li>Symmetrical tip</li><li>Catheter length options</li><li>Maximal barrier trays</li><li>Straight or curved extension legs</li></ul>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741042161",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741042164",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Kit Configuration",
+              "value": "Tray"
+            },
+            {
+              "name": "Package",
+              "value": "5/shelfpack, 50/case"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Size",
+              "value": "13.0 Fr"
+            },
+            {
+              "name": "Insertion Length (Tip to Cuff)",
+              "value": "24 cm"
+            },
+            {
+              "name": "Catheter Configuration",
+              "value": "Curved Extension Leg"
+            }
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What are the indications for use for the DuoGlide Catheter?",
+          "answer": "The DuoGlide Catheters are indicated for use in attaining short-term (less than 30 days) vascular access for hemodialysis, hemoperfusion, and apheresis therapy via the jugular, subclavian or femoral vein."
+        },
+        {
+          "question": "What are the contraindications?",
+          "answer": "The catheter is intended for short-term vascular access only and is not to be used for any purpose other than indicated."
+        },
+        {
+          "question": "What flow rate does DuoGlide Catheter achieve?",
+          "answer": "The DuoGlide Catheter flows at 400 mL/min for all lengths with low arterial/venous pressures (less than 250 mmHg). As suggested by in vitro data using a blood simulate approximating the viscosity of whole blood."
+        },
+        {
+          "question": "What is the recirculation rate of the DuoGlide Catheter?",
+          "answer": "The rate of recirculation of the dialysis lumens is less than 1% on average in both the forward and reverse directions when tested in vitro 1 at a flow rate of 300 mL/min with the symmetrical tip design of the 24 cm DuoGlide Short Term Dialysis Catheter. Note that recirculation in femoral catheters is likely significantly greater than in internal jugular placed catheters. 2 Bench test results may not necessarily be indicative of clinical performance."
+        },
+        {
+          "question": "What is the French size of the DuoGlide Catheter?",
+          "answer": "The DuoGlide Catheter outer diameter is 13 French. The intra lumens are large 12 gauge lumens that allow for flows of 400 mL/min."
+        },
+        {
+          "question": "In what configurations does the DuoGlide Catheter come?",
+          "answer": "The DuoGlide Catheter is available in both straight and curved extension leg configurations."
+        },
+        {
+          "question": "In what insertion lengths does the DuoGlide Catheter come?",
+          "answer": "The DuoGlide Catheter is available in 12.5 cm (curved extension configuration only), 15 cm, 20 cm, 24 cm, and 30 cm (straight extension configuration only)."
+        },
+        {
+          "question": "Why is the DuoGlide Catheter suture wing transparent and rotatable?",
+          "answer": "Transparent, rotatable wing allows for easy visualization and cleaning of exit site."
+        },
+        {
+          "question": "In what veins is the DuoGlide Catheter intended to be placed?",
+          "answer": "The DuoGlide Catheter is intended to be inserted in the jugular, femoral, or subclavian vein as required. WARNING: The catheter must not be left in the femoral vein longer than three days."
+        },
+        {
+          "question": "What cleaning agents are recommended for use on the DuoGlide Catheter?",
+          "answer": "The DuoGlide Dialysis Catheter is compatible with the following agents: Povidone iodine, 0.55% sodium hypochlorite solution, chlorhexidine gluconate 4%, chlorhexidine gluconate 2% solution, dilute aqueous sodium hypochlorite, hydrogen peroxide, bacitracin zinc ointments in petrolatum bases. WARNING: Acetone and PEG-containing ointments can cause failure of this device and should not be used with polyurethane catheters. Chlorhexidine patches or bacitracin zinc ointments are the preferred alternatives."
+        },
+        {
+          "question": "Can the DuoGlide Catheter be exchanged over a guidewire?",
+          "answer": "Yes, the DuoGlide Catheter may be exchanged over a guidewire. The wire included in the kit is a 0.035 inch wire which fits through the venous lumen of the catheter."
+        }
+      ],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.0117050",
+      "sku": "0117050",
+      "gtin": "00801741030949",
+      "title": "PerFix™ Light Plug, Small, 2.5 cm x 3.4 cm (1.0\" x 1.4\"), 1/case",
+      "brand": "PerFix™",
+      "category": "Synthetic mesh",
+      "product_family": "PerFix™ Light Plug",
+      "meta_description": "Learn more about PerFix™ Light Plug and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/surgery/PerFix-Light.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/surgery/PerFix-Light.jpg",
+          "local_path": "images/0117050/0117050_01.jpg"
+        }
+      ],
+      "overview_text": "Live life tension-free A lighter-weight version of our proven PerFix™ Plug for tension-free inguinal hernia repair. The PerFix™ Light Plug is ideal for use in a tension-free preperitoneal repair technique where a lighter-weight mesh and reduced amount of implanted material is indicated.",
+      "overview_html": "<h3>Live life tension-free</h3><p>A lighter-weight version of our proven PerFix™ Plug for tension-free inguinal hernia repair. The PerFix™ Light Plug is ideal for use in a tension-free preperitoneal repair technique where a lighter-weight mesh and reduced amount of implanted material is indicated.</p>",
+      "features_and_benefits": [],
+      "references_html": "<p>1. Millikan KW, Doolas A. A Long-Term Evaluation of the Modified Mesh-Plug Hernioplasty in Over 2,000 Patients. Hernia. 2008 June; 12(3): 257-260.</p><p><b>INDICATIONS</b><br/> The PerFix™ Light Plug is indicated for reinforcement of soft tissue, where weakness exists, in procedures involving soft tissue repair of inguinal hernia defects.</p><p><b>CONTRAINDICATIONS</b></p><ol><li>Do not use this mesh in infants, children or pregnant women, whereby future growth may be compromised by use of such mesh material.</li><li>The use of this mesh has not been studied in breastfeeding or pregnant women.</li><li>Literature reports that there may be a possibility for adhesion formation when polypropylene mesh is placed in direct contact with the bowel or viscera.</li></ol><p><b>WARNINGS</b></p><ol><li>The use of any synthetic mesh or patch in a contaminated or infected wound could lead to fistula formation and/or extrusion of the mesh.</li><li>If an infection develops, treat the infection aggressively. Consideration should be given regarding the need to remove the mesh. An unresolved infection may require removal of the mesh.</li><li>If the unused mesh has been in contact with instruments or supplies used on a patient or contaminated with body fluids, discard with care to prevent risk of transmission of viral infections.</li><li>To prevent recurrences when repairing hernias, the mesh should be sized with appropriate overlap for the size and location of the defect, taking into consideration any additional clinical factors applicable to the patient. Careful attention to mesh fixation placement and spacing will help prevent excessive tension or gap formation between the mesh and fascial tissue.</li><li>This mesh is supplied sterile. Inspect the packaging to be sure it is intact and undamaged prior to use.</li><li>This mesh has been designed for single use only. Reuse, reprocessing, resterilization or repackaging may compromise the structural integrity and/or essential material and design characteristics that are critical to the overall performance of the mesh and may lead to mesh failure which may result in injury to the patient. Reuse, reprocessing, resterilization or repackaging may also create a risk of contamination of the mesh and/or cause patient infection or cross infection including, but not limited to, the transmission of infectious diseases from one patient to another. Contamination of the mesh may lead to injury, illness or death of the patient or end user.</li><li>To avoid injury, careful attention is required if fixating the mesh in the presence of nerves, vessels or the spermatic cord. Fastener penetration into underlying tissue containing nerves or blood vessels may result in the need for medical/surgical intervention, cause serious injury or permanent impairment to a body structure.</li><li>This device is not for the use of repair of pelvic organ prolapse.</li><li>This device is not for the use of treatment of stress urinary incontinence.</li><li>The safety and effectiveness of PerFix™ Light Plug in laparoscopic inguinal hernia repair procedures have not been evaluated or established.</li></ol><p><b>PRECAUTIONS</b></p><ol><li>Please read all instructions prior to use.</li><li>Only physicians qualified in the appropriate surgical techniques should use this mesh.</li><li>Care should be taken to ensure that the mesh is adequately fixated to the uncompromised tissue of the inguinal floor. If necessary, additional fasteners and/or sutures should be used.</li><li>Monofilament sutures are recommended to properly secure the mesh.</li><li>When two or more plugs are used for large direct or pantaloon hernias, they should be joined together with sutures where the plugs abut.</li></ol><p><b>ADVERSE REACTIONS</b><br/> Possible complications include, but are not limited to, seroma, adhesions, hematomas, pain, infection, inflammation, extrusion, erosion, mesh migration, fistula formation, allergic reaction and recurrence of the hernia or soft tissue defect.</p><p>Please consult package insert for more detailed safety information and instructions for use.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "00801741030949",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "1/cs."
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Dimensions",
+              "value": "Small PerFix™ Light Plug, 1.0\" x 1.4\" (2.5cm x 3.4cm)"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "1190600",
+          "title": "Phasix™ Plug and Patch, Small, 1.0 in x 1.4 in (2.5 cm x 3.6 cm)"
+        },
+        {
+          "sku": "1190601",
+          "title": "Phasix™ Plug and Patch, Medium, 1.3 in x 1.6 in (3.3 cm x 4.1 cm)"
+        },
+        {
+          "sku": "1190602",
+          "title": "Phasix™ Plug and Patch, Large, 1.5 in x 1.9 in (4.1 cm x 4.8 cm)"
+        },
+        {
+          "sku": "1190603",
+          "title": "Phasix™ Plug and Patch, Extra Large, 1.4 in x 2.0 in (3.8 cm x 5.1 cm)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.305950",
+      "sku": "305950",
+      "gtin": "00382903059508",
+      "title": "1 mL BD SafetyGlide™ Allergy Syringe Tray with 27 G x 1/2 in. Permanently Attached Needle (regular bevel)",
+      "brand": null,
+      "category": null,
+      "product_family": "BD® Allergy Syringes",
+      "meta_description": "Learn more about BD® Allergy Syringes and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/305950%20Image%201.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/305950%20Image%201.jpg",
+          "local_path": "images/305950/305950_01.jpg"
+        }
+      ],
+      "overview_text": "BD ® Allergy Syringes are designed to deliver small doses of medication. Product Alert BD increases domestic syringe production following FDA Safety Communication Learn more",
+      "overview_html": "<p>BD<sup>®</sup> Allergy Syringes are designed to deliver small doses of medication.</p><p>Product Alert</p><p>BD increases domestic syringe production following FDA Safety Communication</p><ul><li><a href=\"https://www.bd.com/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions\">Learn more</a></li></ul>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50382903059503",
+              "quantity": "1000"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382903059508",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382903059509",
+              "quantity": "25"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Box Height",
+              "value": "6.123 mm"
+            },
+            {
+              "name": "Box Length",
+              "value": "12.123 mm"
+            },
+            {
+              "name": "Box Width",
+              "value": "7.123 mm"
+            },
+            {
+              "name": "Case Height",
+              "value": "33.53 mm"
+            },
+            {
+              "name": "Case Length",
+              "value": "40.89 mm"
+            },
+            {
+              "name": "Case Width",
+              "value": "34.04 mm"
+            },
+            {
+              "name": "Quantity - Case",
+              "value": "1000"
+            },
+            {
+              "name": "Quantity - Shelfpack",
+              "value": "25"
+            },
+            {
+              "name": "Quantity",
+              "value": "25/tray; 1000/case"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Disposable",
+              "value": "Single-use disposable product"
+            },
+            {
+              "name": "Fill Volume",
+              "value": "1 mL"
+            },
+            {
+              "name": "Hub Color",
+              "value": "Clear"
+            },
+            {
+              "name": "Hub Type",
+              "value": "Permanently attached neeedle"
+            },
+            {
+              "name": "Needle Gauge",
+              "value": "27 G"
+            },
+            {
+              "name": "Needle Length",
+              "value": "1/2 in"
+            },
+            {
+              "name": "Needle Tip Type",
+              "value": "Regular"
+            },
+            {
+              "name": "Needle Type",
+              "value": "Hypodermic"
+            },
+            {
+              "name": "Safety Engineered",
+              "value": "Safety engineered product"
+            },
+            {
+              "name": "Safety Engineered Feature",
+              "value": "shielding mechanism"
+            },
+            {
+              "name": "Syringe Size",
+              "value": "1 mL"
+            },
+            {
+              "name": "Syringe Tip Type",
+              "value": "Permanently attached"
+            },
+            {
+              "name": "Typical Application",
+              "value": "General use"
+            },
+            {
+              "name": "Needle Wall Type",
+              "value": "Regular wall"
+            }
+          ]
+        },
+        {
+          "group": "Sustainability",
+          "attributes": [
+            {
+              "name": "Disposable",
+              "value": "Single-use disposable product"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.305540",
+      "sku": "305540",
+      "gtin": "00382903055401",
+      "title": "1 mL BD® Allergy Syringe with Permanently Attached 27 G x 1/2 in. Needle",
+      "brand": null,
+      "category": null,
+      "product_family": "BD® Allergy Syringes",
+      "meta_description": "Learn more about BD® Allergy Syringes and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/hypodermic/305540_1mLAllergySyringe_w_PermNeedle27gx1_2in_RegularBevel_Tray_Open_W_Syringe.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/hypodermic/305540_1mLAllergySyringe_w_PermNeedle27gx1_2in_RegularBevel_Tray.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/hypodermic/305540_1mLAllergySyringe_w_PermNeedle27gx1_2in_RegularBevel_Tray_Open_W_Syringe.png",
+          "local_path": "images/305540/305540_01.png"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/hypodermic/305540_1mLAllergySyringe_w_PermNeedle27gx1_2in_RegularBevel_Tray.png",
+          "local_path": "images/305540/305540_02.png"
+        }
+      ],
+      "overview_text": "BD ® Allergy Syringes are designed to deliver small doses of medication. Product Alert BD increases domestic syringe production following FDA Safety Communication Learn more",
+      "overview_html": "<p>BD<sup>®</sup> Allergy Syringes are designed to deliver small doses of medication.</p><p>Product Alert</p><p>BD increases domestic syringe production following FDA Safety Communication</p><ul><li><a href=\"https://www.bd.com/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions\">Learn more</a></li></ul>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50382903055406",
+              "quantity": "1000"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382903055401",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382903055402",
+              "quantity": "25"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Box Height",
+              "value": "2.6 cm"
+            },
+            {
+              "name": "Box Length",
+              "value": "13.4 cm"
+            },
+            {
+              "name": "Box Width",
+              "value": "13.2 cm"
+            },
+            {
+              "name": "Case Height",
+              "value": "32.77 cm"
+            },
+            {
+              "name": "Case Length",
+              "value": "32.26 cm"
+            },
+            {
+              "name": "Case Width",
+              "value": "27.18 cm"
+            },
+            {
+              "name": "Quantity - Case",
+              "value": "1,000"
+            },
+            {
+              "name": "Quantity - Shelfpack",
+              "value": "25"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Fill Volume",
+              "value": "1 mL"
+            },
+            {
+              "name": "Needle Gauge",
+              "value": "27 G"
+            },
+            {
+              "name": "Needle Length",
+              "value": "1/2 in."
+            },
+            {
+              "name": "Needle Hub Color",
+              "value": "Clear"
+            },
+            {
+              "name": "Needle Hub Type",
+              "value": "Permanently attached needle"
+            },
+            {
+              "name": "Needle Wall Type",
+              "value": "Regular"
+            },
+            {
+              "name": "Needle Bevel",
+              "value": "Regular"
+            },
+            {
+              "name": "Syringe Tip Type",
+              "value": "Permanently attached"
+            },
+            {
+              "name": "Typical Application",
+              "value": "General use"
+            },
+            {
+              "name": "Disposable",
+              "value": "Disposable product"
+            }
+          ]
+        },
+        {
+          "group": "Sustainability",
+          "attributes": [
+            {
+              "name": "Single Use",
+              "value": "Sterile, Single-use"
+            },
+            {
+              "name": "Disposable",
+              "value": "Disposable product"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.145fs35",
+      "sku": "145FS35",
+      "gtin": "00801741053252",
+      "title": "Guidewires, Hydroglide™, Straight Tip",
+      "brand": "Hydroglide™",
+      "category": "Urological guidewires",
+      "product_family": "Hydroglide™ Guidewires",
+      "meta_description": "Not made with natural rubber latex.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/KS-Hydroglide-Guidewire-145FS25.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/KS-Hydroglide-Guidewire-145FS25.jpg",
+          "local_path": "images/145FS35/145FS35_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [
+        {
+          "heading": "The stainless steel Hydroglide™ guidewire has a hydrophilic coating and is available in multiple sizes.",
+          "description": null
+        },
+        {
+          "heading": "The Hydroglide™ guidewire has a hydrophilic coating that is ultra slippery for maximized catheter/stent track ability.",
+          "description": null
+        },
+        {
+          "heading": "The proximal 20cm segment is uncoated to ensure confident handling.",
+          "description": null
+        },
+        {
+          "heading": "The guidewire is color-coded for size identification. Green-.025\", Violet-.035” and Blue-.038”.",
+          "description": null
+        },
+        {
+          "heading": "The guidewire has a flexible atraumatic tip for optimal flexibility and minimized trauma.",
+          "description": null
+        }
+      ],
+      "references_html": "<p>Specifications subject to change without notice.</p><p>For the latest information, always check the “Instructions for Use” that comes packaged with the product. If you are a consumer seeking more information, please consult your healthcare provider.</p><p>Please consult product labels and inserts for indications, contraindications, hazards, warnings, precautions and directions for use.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741053259",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741053252",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "10/box"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Size",
+              "value": "Length 145cm, Wire Size 0.035\""
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.5903190",
+      "sku": "5903190",
+      "gtin": "00801741013690",
+      "title": "Equistream™ Catheter - Straight, Polyurethane Catheter, Standard Kit with AirGuard™ Valved Introducer",
+      "brand": "Equistream™",
+      "category": "Long-term hemodialysis catheters",
+      "product_family": "Equistream™ XK Long-Term Hemodialysis Catheter",
+      "meta_description": "Learn more about Equistream™ XK Long-Term Hemodialysis Catheter and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/equistream_img.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/equistream_img.png",
+          "local_path": "images/5903190/5903190_01.jpg"
+        }
+      ],
+      "overview_text": "High flow rates Unique tip design Low recirculation Polyurethane catheter material Straight and Alphacurve™ pre-curved configurations AirGuard™ valved introducer Over-the-wire placements Available with preloaded stylet (straight configurations)",
+      "overview_html": "<ul><li>High flow rates</li><li>Unique tip design</li><li>Low recirculation</li><li>Polyurethane catheter material</li><li>Straight and Alphacurve™ pre-curved configurations</li><li>AirGuard™ valved introducer</li><li>Over-the-wire placements</li><li>Available with preloaded stylet (straight configurations)</li></ul>",
+      "features_and_benefits": [
+        {
+          "heading": "High flow rates",
+          "description": null
+        },
+        {
+          "heading": "Unique tip design",
+          "description": null
+        },
+        {
+          "heading": "Low recirculation",
+          "description": null
+        },
+        {
+          "heading": "Polyurethane catheter material",
+          "description": null
+        },
+        {
+          "heading": "Straight and Alphacurve™ pre-curved configurations",
+          "description": null
+        },
+        {
+          "heading": "AirGuard™ valved introducer",
+          "description": null
+        },
+        {
+          "heading": "Over-the-wire placements",
+          "description": null
+        },
+        {
+          "heading": "Available with preloaded stylet (straight configurations)",
+          "description": null
+        }
+      ],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741013697",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741013690",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Case",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Length",
+              "value": "24 cm"
+            },
+            {
+              "name": "Catheter Size",
+              "value": "14.5 Fr"
+            },
+            {
+              "name": "Insertion Length (Tip to Cuff)",
+              "value": "19 cm"
+            },
+            {
+              "name": "Stylet",
+              "value": "Preloaded"
+            },
+            {
+              "name": "Tip Style",
+              "value": "Split"
+            },
+            {
+              "name": "Catheter Size",
+              "value": "14.5 Fr"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.atg120122",
+      "sku": "ATG120122",
+      "gtin": "00801741060687",
+      "title": "Atlas™ Gold PTA Dilatation Catheter",
+      "brand": "Atlas™",
+      "category": null,
+      "product_family": "Atlas™ GOLD PTA Dilatation Catheters",
+      "meta_description": "12 mm x 2 cm Balloon with a Rated Burst Pressure of 18 ATM on 120 cm Shaft with 7F Sheath",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_INTERVENTIONAL_PI_PF10008-ATLAS-GOLD.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_INTERVENTIONAL_PI_PF10008-ATLAS-GOLD.jpg",
+          "local_path": "images/ATG120122/ATG120122_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": "<p>*Bench testing (n=45; 15 samples each of 12mmx2mmx80cm, 20mmx4mmx80cm, 26mmx4mmx120cm) may not be indicative of clinical performance. Demonstrated less than 2% mean compliance between nominal pressure and rated burst pressure. Data on file, Bard Peripheral Vascular, Inc. Tempe, AZ. Different test methods may yield different results.</p><p>Please consult Instructions for Use for product indications for use, contraindications, warnings, precautions, complications, adverse events and detailed safety information.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741060687",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Balloon Diameter",
+              "value": "12 mm"
+            },
+            {
+              "name": "Balloon Length",
+              "value": "2 cm"
+            },
+            {
+              "name": "Nominal Pressure (atm)",
+              "value": "6"
+            },
+            {
+              "name": "Rated Burst Pressure (atm)",
+              "value": "18"
+            },
+            {
+              "name": "Shaft Length",
+              "value": "120 cm"
+            },
+            {
+              "name": "Sheath Size",
+              "value": "7 F"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.0165l22",
+      "sku": "0165L22",
+      "gtin": "00801741017513",
+      "title": "Bardex™ Lubricath™ Latex Foley Catheter (22 Fr)",
+      "brand": "Lubricath™",
+      "category": "Standalone foley catheters",
+      "product_family": "Standard Foley Catheter",
+      "meta_description": "Straight, 5cc, 2-Way",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-0118L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Tiemann-0102L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Wheeler-0198L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Red-Latex-Foley-Catheter-Council-0196L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-012375.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-0123RL.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Ainsworth149RL.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Carson-0168L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Carson-Coude-0100L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Emmett-0136L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Female-0169L.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Ovoid-0113L.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-0118L.jpg",
+          "local_path": "images/0165L22/0165L22_01.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Tiemann-0102L.jpg",
+          "local_path": "images/0165L22/0165L22_02.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Wheeler-0198L.jpg",
+          "local_path": "images/0165L22/0165L22_03.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Red-Latex-Foley-Catheter-Council-0196L.jpg",
+          "local_path": "images/0165L22/0165L22_04.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-012375.jpg",
+          "local_path": "images/0165L22/0165L22_05.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-0123RL.jpg",
+          "local_path": "images/0165L22/0165L22_06.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Ainsworth149RL.jpg",
+          "local_path": "images/0165L22/0165L22_07.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Carson-0168L.jpg",
+          "local_path": "images/0165L22/0165L22_08.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Carson-Coude-0100L.jpg",
+          "local_path": "images/0165L22/0165L22_09.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Emmett-0136L.jpg",
+          "local_path": "images/0165L22/0165L22_10.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Female-0169L.jpg",
+          "local_path": "images/0165L22/0165L22_11.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/UD-Lubricath-2Way-Latex-Foley-Catheter-Ovoid-0113L.jpg",
+          "local_path": "images/0165L22/0165L22_12.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741017510",
+              "quantity": "12"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741017513",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "FDA, Premarket Approval, and Regulatory",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Size",
+              "value": "22 Fr"
+            },
+            {
+              "name": "Catheter Material",
+              "value": "Latex"
+            },
+            {
+              "name": "Catheter Balloon Volume",
+              "value": "5cc"
+            },
+            {
+              "name": "Catheter Lumens",
+              "value": "2-Way"
+            },
+            {
+              "name": "Catheter Tip Type",
+              "value": "Straight"
+            },
+            {
+              "name": "Catheter Coating",
+              "value": "Bard® Hydrogel Coating"
+            },
+            {
+              "name": "Catheter Temperature Sensing Capability",
+              "value": "No"
+            },
+            {
+              "name": "Catheter Temperature Sensing Connection",
+              "value": "None"
+            },
+            {
+              "name": "Natural Latex",
+              "value": "Yes"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "0165L30",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (30 Fr)"
+        },
+        {
+          "sku": "0165L28",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (28 Fr)"
+        },
+        {
+          "sku": "0165L26",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (26 Fr)"
+        },
+        {
+          "sku": "0165L24",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (24 Fr)"
+        },
+        {
+          "sku": "0165L20",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (20 Fr)"
+        },
+        {
+          "sku": "0165L18",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (18 Fr)"
+        },
+        {
+          "sku": "0165L16",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (16 Fr)"
+        },
+        {
+          "sku": "0165L14",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (14 Fr)"
+        },
+        {
+          "sku": "0165L12",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (12 Fr)"
+        },
+        {
+          "sku": "119418M",
+          "title": "Bardex™ Lubricath™ Temperature Sensing Latex Foley Catheter (18 Fr)"
+        },
+        {
+          "sku": "119416",
+          "title": "Bardex™ Lubricath™ Temperature Sensing Latex Foley Catheter (16 Fr)"
+        },
+        {
+          "sku": "119418",
+          "title": "Bardex™ Lubricath™ Temperature Sensing Latex Foley Catheter (18 Fr)"
+        },
+        {
+          "sku": "119416M",
+          "title": "Bardex™ Lubricath™ Temperature Sensing Latex Foley Catheter (16 Fr)"
+        },
+        {
+          "sku": "N0165L16",
+          "title": "Bardex™ Lubricath™ Latex Foley Catheter (16 Fr)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.1210020",
+      "sku": "1210020",
+      "gtin": "00801741161230",
+      "title": "Phasix™ ST Mesh with Echo 2™ Positioning System, Circle, 8 in (20 cm)",
+      "brand": "Phasix™",
+      "category": "Synthetic mesh",
+      "product_family": "Phasix™ ST Mesh with Echo 2™ Positioning System",
+      "meta_description": "Learn more about Phasix™ ST Mesh with Echo 2™ Positioning System and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/surgery/PF10769_Main-Phasix-ST-w-Echo-2.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/surgery/PF10769_Main-Phasix-ST-w-Echo-2.jpg",
+          "local_path": "images/1210020/1210020_01.jpg"
+        }
+      ],
+      "overview_text": "Simplify the complex Introducing the only bioresorbable mesh with a positioning system designed to streamline laparoscopic and robotic hernia repairs.",
+      "overview_html": "<h3>Simplify the complex</h3><p>Introducing the only bioresorbable mesh with a positioning system designed to streamline laparoscopic and robotic hernia repairs.</p>",
+      "features_and_benefits": [],
+      "references_html": "<p>References.</p><ol><li>Surgeon survey. Data on file. Preclinical testing. Results may not correlate to clinical performance.</li><li>Time test compared to flat sheet. Preclinical testing. Data on file. Results may not correlate to clinical performance.</li><li>Data on file. Based on preclinical testing. Results may not correlate to clinical performance in humans.</li><li>In preclinical testing compared to Bio-A®, Vicyrl® Mesh, and OviTex™ Resorbable Mesh. Data on file. Results may not correlate to clinical performance in humans.</li></ol><p><b>Indications.</b></p><p>Phasix™ ST Mesh is indicated for use in the reinforcement of soft tissue, where weakness exists, in procedures involving soft tissue repair, such as for the repair of hernias. The Echo 2™ Positioning System is intended to facilitate the delivery and positioning of the mesh during laparoscopic hernia repair.</p><p><b>Contraindications.</b></p><p>Because Phasix™ ST Mesh is fully resorbable, it should not be used in repairs where permanent wound or organ support from the mesh is required.</p><p><b>Warnings.</b></p><ol><li>Device manufacture involves exposure to tetracycline hydrochloride and kanamycin sulfate. The safety and product use for patients with hypersensitivities to these antibiotics is unknown. The use of this mesh in susceptible patients with known allergies to tetracycline hydrochloride or kanamycin sulfate should be avoided.</li><li>Phasix™ ST Mesh is the only implantable component of the device. The Echo 2™ Positioning System (which includes the frame, center hoisting suture and all connectors) must be removed from the patient and appropriately discarded.</li><li>Ensure proper orientation; the coated side of the mesh should be oriented against the bowel or sensitive organs. Do not place the uncoated mesh side against the bowel. There is a risk for adhesion formation or erosions when the uncoated mesh side is placed in direct contact with the bowel or viscera.</li><li>Deviation from recommended instructions and/or procedural steps within this IFU may result in disruption or delamination of the hydrogel barrier of the mesh. Hydrogel disruption or delamination may cause an unexpected increase in adhesion formation in the area where it is disrupted.</li><li>The safety and effectiveness of Phasix™ ST Mesh in bridging repairs has not been evaluated.</li><li>The use of any synthetic mesh or patch in a contaminated or infected wound can lead to fistula formation and/or extrusion of the mesh and it is not recommended.</li><li>If an infection develops, treat the infection aggressively. Consideration should be given regarding the need to remove the mesh. An unresolved infection may require the removal of the mesh.</li><li>To prevent recurrences when repairing hernias, Phasix™ ST Mesh must be large enough to provide sufficient overlap beyond the margins of the repair/primary closure. Careful attention to mesh fixation placement and spacing will help prevent excessive tension or gap formation between the mesh and fascial tissue.</li><li>The safety and effectiveness of Phasix™ ST Mesh in the following applications has not been evaluated or established: a. pregnant or breastfeeding women b. pediatric use c. Neural and cardiovascular tissue.</li><li>The device should be used once exterior foil pouch has been opened. Do not store for later use.</li><li>Unused portions of the device should be discarded. If unused mesh has been in contact with instruments or supplies used on a patient or contaminated with body fluids, discard mesh with care to prevent risk of transmission of viral infections.</li><li>This device is provided sterile and has been designed for single use only. Reuse, resterilization, reprocessing and/or repackaging any portion of the device may compromise the structural integrity and/or essential material and design characteristics that are critical to the overall performance of the device and may lead to device failure which may result in injury to the patient.</li><li>Reuse, reprocessing, resterilization, or repackaging may also create a risk of contamination of the device and/or cause patient infection or cross infection, including, but not limited to, the transmission of infectious diseases from one patient to another. Contamination of the device may lead to injury, illness, or death of the patient or end user.</li><li>Do not apply sharp, pointed, cautery devices or ultrasonic tools (such as scissors, needles, tackers, diathermic tools, etc.) to the Echo 2™ Positioning System frame.</li><li>This device contains superelastic nitinol wire; do not cut and avoid direct contact/coupling with active surgical electrodes.</li><li>The Echo 2™ Positioning System should not be used with any other hernia device aside from those with which it comes preattached/packaged.</li><li>Discard the Echo 2™ Positioning System (including the frame, center hoisting suture, all connectors) and introducer tool after use. There may be a potential biohazard. Handle and dispose in accordance with accepted medical practice and applicable local state and federal laws and regulations.</li><li>Prior to use, carefully examine package and product to verify neither is damaged and that all seals are intact. Do not use if the foil pouch or package is damaged or open, or if the center of the temperature indicator on the foil pouch is black.</li><li>When using Phasix™ ST Mesh laparoscopically or robotically in IPOM placement, appropriate surgical technique is recommended to reestablish the fascial integrity of the abdominal wall. As Phasix™ ST Mesh is a bioresorbable mesh, and does not provide permanent wound support, robust fascial closure and management of tension during closure is important to reduce possible hernia recurrence. In the event recurrence is suggested or noted, the clinician should evaluate additional therapeutic or surgical options.</li><li>This mesh is not for the use of repair of pelvic organ prolapse via transvaginal approach.</li><li>This mesh is not for the use of treatment of stress urinary incontinence.</li></ol><p><b>Precautions.</b></p><ol><li>Please read all instructions prior to use.</li><li>Only physicians qualified in the appropriate surgical techniques should use this device. Users should be familiar with mesh strength and size requirements. Improper selection, placement, positioning, and fixation of the mesh can cause subsequent undesirable results.</li><li>The safety and effectiveness of the mesh has not been evaluated in the presence of malignancies in the abdominopelvic cavity.</li><li>Do not trim the Phasix™ ST Mesh. This will affect the interference between the mesh and the positioning system.</li><li>Additionally, laparoscopic removal of the Echo 2™ Positioning System frame must be performed under sufficient visualization of the entire device and surrounding anatomy, to ensure proper removal.</li><li>The safety and effectiveness of Phasix™ ST Mesh in the proximity of existing or excised cancer has not been established.</li></ol><p><b>Adverse Reactions.</b></p><p>In preclinical testing, Phasix™ ST Mesh elicited a minimal tissue reaction characteristic of foreign body response to a substance. The tissue reaction resolved as the mesh was resorbed. Possible complications may include, but are not limited to, seroma, adhesion, hematoma, pain, infection, inflammation, allergic reaction, hemorrhage, extrusion, erosion, migration, fistula formation, and recurrence of the hernia or soft tissue defect.</p><p><b>Please consult package insert for more detailed safety information and instructions for use. </b></p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "00801741161230",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "1/cs."
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Dimensions",
+              "value": "Circle 8\" (20 cm)"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "5990011",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Circle, 11 cm (4.5 in)"
+        },
+        {
+          "sku": "5990015",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Circle, 15 cm (6 in)"
+        },
+        {
+          "sku": "5990020",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Circle, 20 cm (8 in)"
+        },
+        {
+          "sku": "5991015",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Ellipse, 10 cm x 15 cm (4 in x 6 in)"
+        },
+        {
+          "sku": "5991520",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Ellipse, 15 cm x 20 cm (6 in x 8 in)"
+        },
+        {
+          "sku": "5991525",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Oval, 6\" x 10\" (15 cm x 25 cm)"
+        },
+        {
+          "sku": "5991823",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Ellipse, 18 cm x 23 cm (7 in x 9 in)"
+        },
+        {
+          "sku": "5992025",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Ellipse, 20 cm x 25 cm (8 in x 10 in)"
+        },
+        {
+          "sku": "5992533",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Ellipse, 25 cm x 33 cm (10 in x 13 in)"
+        },
+        {
+          "sku": "5993035",
+          "title": "Ventralight™ ST Mesh with Echo 2™ Positioning System, Ellipse, 30 cm x 35 cm (12 in x 14 in)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.9770690",
+      "sku": "9770690",
+      "gtin": "00801741109119",
+      "title": "Pinpoint™ GT Needle Guide Kit",
+      "brand": "Site-Rite™",
+      "category": "Ultrasound guidance systems",
+      "product_family": "Site-Rite™ 8 Ultrasound System",
+      "meta_description": "Site~Rite™ Ultrasound Probe Compatible, 48\" probe cover, 21 G, 0.5 cm, 1 cm, 1.5 cm, 2 cm depths",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/GT_Needle_Guides.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/Probe_Cover_with_Needle_Guides.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/Probe_Cover_with_Needle_Guide_and_Needle.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/GT_Needle_Guides.png",
+          "local_path": "images/9770690/9770690_01.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/Probe_Cover_with_Needle_Guides.jpg",
+          "local_path": "images/9770690/9770690_02.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/Probe_Cover_with_Needle_Guide_and_Needle.jpg",
+          "local_path": "images/9770690/9770690_03.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741109116",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741109119",
+              "quantity": "1"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.5f051203cs",
+      "sku": "5F051203CS",
+      "gtin": "00801741120657",
+      "title": "LifeStent™ 5F Vascular Stent System",
+      "brand": "LifeStent™",
+      "category": "Vascular stents",
+      "product_family": "LifeStent™ 5F Vascular Stent System",
+      "meta_description": "Learn more about LifeStent™ 5F Vascular Stent System and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/nsacz17rm6bziaxwysk4x504i0ayinor.jpg",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/uauya3wspdunq8xq9oic6a7chqqgc5bi.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/nsacz17rm6bziaxwysk4x504i0ayinor.jpg",
+          "local_path": "images/5F051203CS/5F051203CS_01.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/uauya3wspdunq8xq9oic6a7chqqgc5bi.jpg",
+          "local_path": "images/5F051203CS/5F051203CS_02.jpg"
+        }
+      ],
+      "overview_text": "Unique helical design engineered for bending, compression, torsion The LifeStent™ 5F Vascular Stent System is indicated for the treatment of atherosclerotic lesions in the superficial femoral artery (SFA) and popliteal artery. Low profile, 5F delivery system Dual-speed thumbwheel deployment designed for ease of use and placement accuracy 2 GeoAlign™ Marking System designed to increase procedural efficiency and reduce radiation exposure 3",
+      "overview_html": "<ul><li>Unique helical design engineered for bending, compression, torsion</li><li>The LifeStent™ 5F Vascular Stent System is indicated for the treatment of atherosclerotic lesions in the superficial femoral artery (SFA) and popliteal artery.</li><li>Low profile, 5F delivery system</li><li>Dual-speed thumbwheel deployment designed for ease of use and placement accuracy<sup>2</sup></li><li>GeoAlign™ Marking System designed to increase procedural efficiency and reduce radiation exposure<sup>3</sup></li></ul>",
+      "features_and_benefits": [
+        {
+          "heading": "Unique helical design engineered for bending, compression, torsion",
+          "description": null
+        },
+        {
+          "heading": "Only stent FDA-approved for the SFA and full popliteal artery¹",
+          "description": null
+        },
+        {
+          "heading": "Low profile, 5F delivery system",
+          "description": null
+        },
+        {
+          "heading": "Dual-speed thumbwheel deployment designed for ease of use and placement accuracy²",
+          "description": null
+        },
+        {
+          "heading": "GeoAlign™ Marking System designed to increase procedural efficiency and reduce radiation exposure³",
+          "description": null
+        }
+      ],
+      "references_html": "<p><b>Intended Use:</b><br/> The Hydro-Surg™ Plus Irrigator is designed to be used with the DAVOL™ Trumpet Valve and tip to provide controlled powered irrigation to, and aspiration of fluids/smoke from, the operative site during laparoscopic surgical procedures (e.g., laparoscopic cholecystectomy and laparoscopic gynecological procedures). It may also be used for resection of filmy adhesions (i.e., hydrodissection) and peritoneal lavage. Appropriate fluids include those which have a specific gravity of approximately 1 (e.g. saline).Additional specialty probe tips are available from DAVOL, including insulated and non-conductive tips for use with electrosurgery. Suction/irrigation probe tips, when included, have a non-reflective surface to help avoid laser beam reflection. With proper adapter, a laser fiber and laser fiber sheath can be passed through the probe handle and tip. Pathology and/or surgeon’s choice will dictate preference of suction/irrigation probe tip configuration.<br/><br/><b>Contraindications:</b></p><ul><li>Use of this device for hysteroscopy or for cavity distention is contraindicated.</li><li>Use of this device for intra-abdominal irrigation is contraindicated whenever laparoscopy is contra-indicated. See operator’s manual of your laparoscope for absolute and relative contraindications.</li><li>Use of electrosurgery instruments and electrode inserts with an uninsulated metallic tip is contraindicated.</li></ul><p><b>Warnings:</b></p><ul><li>This device has been designed for single use only. Reuse, reprocessing, resterilization or repackaging may compromise the structural integrity and/or essential material and design characteristics that are critical to the overall performance of the device and may lead to device failure which may result in injury to the patient. Reuse, reprocessing, resterilization or repackaging may also create a risk of contamination of the device and/or cause patient infection or cross infection, including, but not limited to, the transmission of infectious diseases from one patient to another. Contamination of the device may lead to injury, illness or death of the patient or end user.</li><li>Do not resterilize.</li><li>Do not incinerate the batteries as this can cause a risk to the environment.</li><li>Only remove batteries for disposal when procedure is completed. Batteries should never be replaced, recharged, put in backwards, or mixed with used or other battery types as these actions may cause explosion or leakage leading to personal injury or can cause a risk to the environment.</li><li>As with any surgical procedure where extensive irrigation is utilized, unintended fluid uptake levels should be closely monitored by the attending physician.</li><li>When using electrosurgery tips or electrode inserts, follow all instructions, warnings, precautions, and contraindications provided with these devices.</li><li>Do not use in an oxygen-enriched atmosphere due to explosion hazard.</li><li>Do not occlude suction tip side holes. If side holes become occluded, negative pressure at the tip may increase and cause tissue to be pulled into the tip potentially damaging tissue.</li><li>If Hydro-Surg™ Plus Irrigator is used stacked with or adjacent to other equipment, Hydro-Surg™ Plus Irrigator should be observed to verify normal operation.</li></ul><p><b>Precautions:</b></p><ul><li>If package is damaged or open, do not use product.</li><li>The pump motor runs continuously when fluid is NOT present in the pump housing. Prolonged operation without fluid in the system may damage the pump motor and must be avoided. This could occur in two ways: 1.) if the pump is turned on prior to priming, turn pump “OFF” and see Step 5 for Instructions for Gravity Pri mi g the Pump; or, 2.) if air enters the pump after bag runs out of fluid, see Step 7 for Instructions for Repriming System in Case of Bag Change.</li><li>Attach pump to I.V. pole before spiking irrigation bag since spike will not securely support pump while in use.</li><li>Use of bottled irrigant is NOT recommended. Although bottles can be used, performance is significantly diminished by air that is pulled into the pump before it can be vented from the bottle.</li><li>Adhesions, anatomical anomalies or other conditions may prevent clear visualization of internal anatomy. Do not perform laparoscopic procedures if the internal anatomy cannot be positively identified.</li><li>Laparoscopic procedures should be performed only by persons having adequate training and familiarity with laparoscopic techniques. Consult the medical literature relative to techniques, complications and hazards prior to performance of any laparoscopic procedure.</li><li>This product is for single use and is provided sterile. DO NOT REUSE.</li><li>Follow all of the recommended electrosurgical and laser manufacturers’ instructions and warnings while operating in these modes.</li><li>Install medical equipment according to the EMC information provided.</li><li>Mobile RF communications equipment can effect medical equipment.</li></ul><p><b>Warnings and Precautions:</b><br/> WHEN PASSING LASER FIBERS THROUGH PROBE:</p><ul><li>Do not use CO2 laser energy systems as they are not compatible for use through the probe handle and tip.</li><li>A thorough understanding of the principles and techniques of laser surgical procedures is necessary to avoid injury to the patient, operator and operating room personnel.</li><li>Pathology and the surgeon’s choice will dictate laser tip configuration.</li><li>Proper eye wear is mandatory before activating the laser.</li><li>Use of this device with laser equipment is indicated only in those procedures for which the selected laser fiber and laser system being used have been approved by the FDA.</li><li>To avoid damage to the laser fiber, do not expose tip until suction/irrigation probe has passed through the laparoscopic trocar.</li><li>To avoid injury to the patient do not activate laser until tip is fully inserted and under visual control.</li></ul>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741120657",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Diameter",
+              "value": "5F"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "135 cm"
+            },
+            {
+              "name": "Guidewire Length",
+              "value": "0.014\" - 0.035\""
+            },
+            {
+              "name": "Stent Diameter",
+              "value": "5 mm"
+            },
+            {
+              "name": "Stent Length",
+              "value": "120 mm"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.215193",
+      "sku": "215193",
+      "gtin": "00382902151937",
+      "title": "Sabouraud dextrose broth, 100 mL",
+      "brand": null,
+      "category": "Prepared culture media",
+      "product_family": "BD prepared bottled media",
+      "meta_description": "Learn more about BD prepared bottled media and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/prepared-bottled-media_RC_DS_PM_0616-0018.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/prepared-bottled-media_RC_DS_PM_0616-0018.png",
+          "local_path": "images/215193/215193_01.png"
+        }
+      ],
+      "overview_text": "BD ready-for-use prepared bottled media help detect micororganisms from pharmaceutical, food, environmental or water testing samples.",
+      "overview_html": "<p>BD ready-for-use prepared bottled media help detect micororganisms from pharmaceutical, food, environmental or water testing samples.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902151937",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382902151938",
+              "quantity": "10"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Shelfpack",
+              "value": "10"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.276840",
+      "sku": "276840",
+      "gtin": "00382902768401",
+      "title": "BD DIFCO™ Baird-Parker Agar Base 500g",
+      "brand": "BD Difco™",
+      "category": null,
+      "product_family": "Dehydrated culture media and additives",
+      "meta_description": "Learn more about Dehydrated culture media and additives and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/deydrated-media-additives_RC_DS_culture-media-49609.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/deydrated-media-additives_RC_DS_culture-media-49609.png",
+          "local_path": "images/276840/276840_01.png"
+        }
+      ],
+      "overview_text": "BD supplies more than 400 different BD Difco™ and BD BBL™ brand media formulations and ingredients in dehydrated form for the convenience of the laboratorian and bioprocessing specialist.",
+      "overview_html": "<p>BD supplies more than 400 different BD Difco™ and BD BBL™ brand media formulations and ingredients in dehydrated form for the convenience of the laboratorian and bioprocessing specialist.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902768401",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Shelf Life (Days)",
+              "value": "1825"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.381467",
+      "sku": "381467",
+      "gtin": "00382903814671",
+      "title": "BD Insyte Autoguard™ Shielded IV Catheter with BD Vialon™ Catheter Material 14 G x 1.77 in.",
+      "brand": "BD Insyte™ Autoguard™",
+      "category": "Peripheral IV catheters",
+      "product_family": "BD Insyte™ Autoguard™ shielded IV catheters",
+      "meta_description": "Learn more about BD Insyte™ Autoguard™ shielded IV catheters and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/381467_381867_Insyte_Autoguard_14Gx1.77.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/381467_381867_Insyte_Autoguard_14Gx1.77.jpg",
+          "local_path": "images/381467/381467_01.jpg"
+        }
+      ],
+      "overview_text": "The BD Insyte Autoguard™ and BD Insyte-N™ Autoguard™ Shielded IV Catheters are designed to provide safety activation with a push of a button and is completely encapsulated after activation to help reduce the risk of needlestick injury. BD Instaflash™ Needle Technology is designed to confirm immediate vessel entry at the point of insertion and to help improve first-stick success.",
+      "overview_html": "<p>The BD Insyte Autoguard™ and BD Insyte-N™ Autoguard™ Shielded IV Catheters are designed to provide safety activation with a push of a button and is completely encapsulated after activation to help reduce the risk of needlestick injury. BD Instaflash™ Needle Technology is designed to confirm immediate vessel entry at the point of insertion and to help improve first-stick success.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50382903814676",
+              "quantity": "200"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382903814671",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382903814672",
+              "quantity": "50"
+            }
+          ]
+        },
+        {
+          "group": "Manufacturing",
+          "attributes": [
+            {
+              "name": "Total Shelf Life",
+              "value": "3 years"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Box",
+              "value": "50"
+            },
+            {
+              "name": "Quantity - Case",
+              "value": "200"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Blood Control",
+              "value": "N"
+            },
+            {
+              "name": "Catheter Gauge Size",
+              "value": "14; 2.1 mm"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "1.77 in.; 45 mm"
+            },
+            {
+              "name": "Catheter Inner Diameter (I.D.) Size",
+              "value": "1.74 mm"
+            },
+            {
+              "name": "Catheter Outer Diameter (O.D.) Size",
+              "value": "2.146 mm"
+            },
+            {
+              "name": "Gravity Flow Rate",
+              "value": "330 mL/min"
+            },
+            {
+              "name": "Hub Color",
+              "value": "Orange"
+            },
+            {
+              "name": "Sterilization Method",
+              "value": "ETO"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Total Shelf Life",
+              "value": "3 years"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.405149",
+      "sku": "405149",
+      "gtin": "00382904051495",
+      "title": "BD® Quincke Spinal Needle 22 G x 7 in.",
+      "brand": null,
+      "category": null,
+      "product_family": "BD® Quincke spinal needles",
+      "meta_description": "Learn more about BD® Quincke spinal needles and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/quincke-needle_rc0_202302821.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/quincke-needle_rc0_202302821.png",
+          "local_path": "images/405149/405149_01.png"
+        }
+      ],
+      "overview_text": "BD ® Quincke Spinal Needles have a unique key/slot arrangement of stylet and cannula hubs that facilitates proper needle bevel orientation.",
+      "overview_html": "<p>BD<sup>®</sup> Quincke Spinal Needles have a unique key/slot arrangement of stylet and cannula hubs that facilitates proper needle bevel orientation.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50382904051490",
+              "quantity": "50"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382904051495",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382904051496",
+              "quantity": "10"
+            }
+          ]
+        },
+        {
+          "group": "Manufacturing",
+          "attributes": [
+            {
+              "name": "Total Shelf Life",
+              "value": "5 years"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Case",
+              "value": "50"
+            },
+            {
+              "name": "Quantity - Shelfpack",
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Cannula Material",
+              "value": "Stainless steel"
+            },
+            {
+              "name": "Hub Color",
+              "value": "Black"
+            },
+            {
+              "name": "Hub Material",
+              "value": "Polypropylene"
+            },
+            {
+              "name": "Hub Type",
+              "value": "Luer hub"
+            },
+            {
+              "name": "Needle Gauge",
+              "value": "22 G"
+            },
+            {
+              "name": "Needle Length",
+              "value": "7 in."
+            },
+            {
+              "name": "Needle Tip Type",
+              "value": "Quincke"
+            },
+            {
+              "name": "Sterile",
+              "value": "Yes"
+            },
+            {
+              "name": "Sterilization Method",
+              "value": "EO"
+            },
+            {
+              "name": "Disposable",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Total Shelf Life",
+              "value": "5 years"
+            },
+            {
+              "name": "Temperature Conditions",
+              "value": "25°C ± 2°C"
+            }
+          ]
+        },
+        {
+          "group": "Sustainability",
+          "attributes": [
+            {
+              "name": "Disposable",
+              "value": "Yes"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.2671934",
+      "sku": "2671934",
+      "gtin": "00801741044533",
+      "title": "PowerLoc™ Safety Infusion Set PAK with Y-Injection Site, 19 G x .75 in.",
+      "brand": "PowerLoc™",
+      "category": "Port access devices",
+      "product_family": "PowerLoc™ Safety Infusion Set",
+      "meta_description": "Learn more about PowerLoc™ Safety Infusion Set and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": "An all-in-one solution to simplify the multi-step sterile prep process",
+      "overview_html": "<p>An all-in-one solution to simplify the multi-step sterile prep process</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741044530",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741044533",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Length",
+              "value": ".75\""
+            },
+            {
+              "name": "Size",
+              "value": "19 Ga"
+            },
+            {
+              "name": "Y-Site",
+              "value": "with Y-Injection Site"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.1857si24",
+      "sku": "1857SI24",
+      "gtin": "00801741017377",
+      "title": "Bardex™ I.C. Latex Foley Catheter (24 Fr)",
+      "brand": "Bardex™",
+      "category": "Standalone foley catheters",
+      "product_family": "Specialty Foley Catheters",
+      "meta_description": "Open Concave, 30cc, 3-Way",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/1857SI.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/1857SI.jpg",
+          "local_path": "images/1857SI24/1857SI24_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741017374",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741017377",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "FDA, Premarket Approval, and Regulatory",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Size",
+              "value": "24 Fr"
+            },
+            {
+              "name": "Catheter Material",
+              "value": "Latex"
+            },
+            {
+              "name": "Catheter Balloon Volume",
+              "value": "30cc"
+            },
+            {
+              "name": "Catheter Lumens",
+              "value": "3-Way"
+            },
+            {
+              "name": "Catheter Tip Type",
+              "value": "Open Concave"
+            },
+            {
+              "name": "Catheter Coating",
+              "value": "Bard® Hydrogel Coating and Bactiguard® Coating"
+            },
+            {
+              "name": "Catheter Temperature Sensing Capability",
+              "value": "No"
+            },
+            {
+              "name": "Catheter Temperature Sensing Connection",
+              "value": "None"
+            },
+            {
+              "name": "Natural Latex",
+              "value": "Yes"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "1857SI22",
+          "title": "Bardex™ I.C. Latex Foley Catheter (22 Fr)"
+        },
+        {
+          "sku": "1857SI20",
+          "title": "Bardex™ I.C. Latex Foley Catheter (20 Fr)"
+        },
+        {
+          "sku": "1857SI18",
+          "title": "Bardex™ I.C. Latex Foley Catheter (18 Fr)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.c30006",
+      "sku": "C30006",
+      "gtin": "10885403235641",
+      "title": "Extension set smallbore spin male luer lock. Not made with DEHP. L: 63 in L: 160 cm PV: 1.6 mL fluid path sterile",
+      "brand": "BD Alaris™",
+      "category": "IV extension sets",
+      "product_family": "BD® General IV Extension Sets",
+      "meta_description": "MIC EXT SET",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-management-solutions/C30006_No_Shadow_Transparent_9154_MMS_Photoshoot_1.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-management-solutions/ISD_C30006.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-management-solutions/ISD_EXT-NoPort.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-management-solutions/C30006_No_Shadow_Transparent_9154_MMS_Photoshoot_1.png",
+          "local_path": "images/C30006/C30006_01.png"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-management-solutions/ISD_C30006.png",
+          "local_path": "images/C30006/C30006_02.png"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-management-solutions/ISD_EXT-NoPort.png",
+          "local_path": "images/C30006/C30006_03.png"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50885403235649",
+              "quantity": "100"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "10885403235641",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "FDA, Premarket Approval, and Regulatory",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "No"
+            },
+            {
+              "name": "Registered with Health Canada",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "group": "Manufacturing",
+          "attributes": [
+            {
+              "name": "CE Marking",
+              "value": "No"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Case Dimensions",
+              "value": "14.625in x 11.25in x 11.25in 4.4lb"
+            },
+            {
+              "name": "Quantity",
+              "value": "100"
+            },
+            {
+              "name": "Unit of Measure",
+              "value": "Per case"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Approximate Length",
+              "value": "160 cm; 63 in."
+            },
+            {
+              "name": "Approximate Priming Volume",
+              "value": "1.6 mL"
+            },
+            {
+              "name": "CE Marking",
+              "value": "No"
+            },
+            {
+              "name": "Color of Tubing",
+              "value": "None"
+            },
+            {
+              "name": "Filter",
+              "value": "None"
+            },
+            {
+              "name": "Luer Lock Type",
+              "value": "Spin male luer lock"
+            },
+            {
+              "name": "Manifold",
+              "value": "None"
+            },
+            {
+              "name": "Number of Backcheck Valves",
+              "value": "0"
+            },
+            {
+              "name": "Number of Connectors",
+              "value": "0"
+            },
+            {
+              "name": "Number of Fuses",
+              "value": "0"
+            },
+            {
+              "name": "Number of Y-Sites",
+              "value": "0"
+            },
+            {
+              "name": "Product Sub Type",
+              "value": "Long extension set (30in-72in), priming vol (1-3mL)"
+            },
+            {
+              "name": "Sterility",
+              "value": "Fluid path sterile"
+            },
+            {
+              "name": "Stopcock",
+              "value": "None"
+            },
+            {
+              "name": "T-Connector Type",
+              "value": "None"
+            },
+            {
+              "name": "Tubing Size",
+              "value": "Smallbore"
+            },
+            {
+              "name": "Type of Connector",
+              "value": "None"
+            },
+            {
+              "name": "Weight",
+              "value": "4.4000 lbs"
+            },
+            {
+              "name": "Y-Site Port Type",
+              "value": "None"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.cq7592",
+      "sku": "CQ7592",
+      "gtin": "00801741063183",
+      "title": "Conquest™ PTA Dilatation Catheter",
+      "brand": "Conquest™",
+      "category": null,
+      "product_family": "Conquest™ PTA Dilatation Catheters",
+      "meta_description": "75cm Shaft, 9mm Balloon Diameter, 2cm Balloon Length, 5.8F",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/conquest_img4.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/conquest_img4.png",
+          "local_path": "images/CQ7592/CQ7592_01.png"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741063183",
+              "quantity": "1"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.cv0224ce",
+      "sku": "CV0224CE",
+      "gtin": "00801741081545",
+      "title": "BD® StatLock™ CV Plus with Pigtail, Sliding Post, Tricot",
+      "brand": "StatLock™",
+      "category": "IV stabilization devices",
+      "product_family": "StatLock™ Stabilization Devices",
+      "meta_description": "Learn more about StatLock™ Stabilization Devices and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": "Custom-fit. Reliable securement. By design. Securing vascular access devices is a critical part of safe, effective vascular access care. Yet, up to 48% of tape-secured IV catheters result in complications like phlebitis and infiltration, leading to costly and disruptive restarts. 1 For decades, StatLock™ Stabilization Devices have set the standard for strong, reliable catheter securement. With a broad portfolio designed to meet the needs of almost any vascular access device, StatLock™ puts the right stabilization solution within reach—providing reliable securement, helping to reduce complications and promoting best practice catheter care. Reduced complication rates StatLock™ Devices for PIVCs have been shown to decrease rates of total IV complication and phlebitis. *,1 Decreased catheter restarts demonstrated for both PICCs and arterial catheters. *,2 More resistant to dislodgement when compared to catheters secured by 3M Tegaderm IV Advanced 1685, Sorbaview SHIELD Small or 3M PICC Securement Device.** Custom-designed securement for PIVCs, PICCs, CVCs, epidural catheters, arterial catheters, dialysis catheters and drainage catheters available in adult, pediatric, and neonatal sizes. More user-friendly and lower pain scores In a randomized controlled trial*, clinicians reported BD StatLock™ to be more user-friendly and lower pain scores during catheter insertion and removal when compared to SecurAcath™ for PICC Catheter securement. Help prevent needlestick injuries by helping to reduce sharps injuries to healthcare workers while securing central catheter lines. *As compared to tape **Benchtop testing may not be indicative of actual clinical outcomes",
+      "overview_html": "<p>Custom-fit. <br/> Reliable securement. <br/> By design.</p><p>Securing vascular access devices is a critical part of safe, effective vascular access care. Yet, up to <b>48%</b> of tape-secured IV catheters result in complications like phlebitis and infiltration, leading to costly and disruptive restarts.<sup>1</sup><br/><br/> For decades, StatLock™ Stabilization Devices have set the standard for strong, reliable catheter securement. With a broad portfolio designed to meet the needs of almost any vascular access device, StatLock™ puts the right stabilization solution within reach—providing reliable securement, helping to reduce complications and promoting best practice catheter care.</p> Reduced complication rates <p>StatLock™ Devices for PIVCs have been shown to decrease rates of total IV complication and phlebitis.<sup>*,1</sup></p> Decreased catheter restarts <p>demonstrated for both PICCs and arterial catheters.<sup>*,2</sup></p> More resistant to dislodgement <p>when compared to catheters secured by 3M Tegaderm IV Advanced 1685, Sorbaview SHIELD Small or 3M PICC Securement Device.**</p> Custom-designed securement <p>for PIVCs, PICCs, CVCs, epidural catheters, arterial catheters, dialysis catheters and drainage catheters available in adult, pediatric, and neonatal sizes.</p> More user-friendly and lower pain scores <p>In a randomized controlled trial*, clinicians reported BD StatLock™ to be more user-friendly and lower pain scores during catheter insertion and removal when compared to SecurAcath™ for PICC Catheter securement.</p> Help prevent needlestick injuries <p>by helping to reduce sharps injuries to healthcare workers while securing central catheter lines.</p><p>*As compared to tape <br/> **Benchtop testing may not be indicative of actual clinical outcomes</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "20801741081549",
+              "quantity": "250"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741081545",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "10801741081542",
+              "quantity": "25"
+            }
+          ]
+        },
+        {
+          "group": "FDA, Premarket Approval, and Regulatory",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "No"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "No"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.2428-0007",
+      "sku": "2428-0007",
+      "gtin": "10885403220883",
+      "title": "BD Alaris™ LVP 20D 4SS 4SS 2CV",
+      "brand": "BD Alaris™",
+      "category": null,
+      "product_family": "BD Alaris™ System",
+      "meta_description": "Learn more about BD Alaris™ System and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50885403220881",
+              "quantity": "20"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "10885403220883",
+              "quantity": "1"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.lsmu1350826",
+      "sku": "LSMU1350826",
+      "gtin": "05391522081215",
+      "title": "LifeStream™ Balloon Expandable Vascular Covered Stent",
+      "brand": "LifeStream™",
+      "category": "Vascular stent grafts",
+      "product_family": "LifeStream™ Balloon Expandable Vascular Covered Stent",
+      "meta_description": "8 mm by 26 mm covered stent with 135 cm catheter",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/MicrosoftTeams-image-16-.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/MicrosoftTeams-image-16-.png",
+          "local_path": "images/LSMU1350826/LSMU1350826_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "05391522081215",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Length",
+              "value": "135 cm"
+            },
+            {
+              "name": "Guidewire Length",
+              "value": "0.035\""
+            },
+            {
+              "name": "Stent Diameter",
+              "value": "8 mm"
+            },
+            {
+              "name": "Stent Length",
+              "value": "26 mm"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.u875310",
+      "sku": "U875310",
+      "gtin": "00801741054686",
+      "title": "Ultraverse™ 018 PTA Dilatation Catheter, 3 mm x 100 mm balloon with 75 cm catheter",
+      "brand": "Ultraverse™",
+      "category": null,
+      "product_family": "Ultraverse™ 018 PTA Dilatation Catheters",
+      "meta_description": "Learn more about Ultraverse™ 018 PTA Dilatation Catheters and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BDPI_Ultraverse_PF10068_Product-Image.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BDPI_Ultraverse_PF10068_Product-Image.png",
+          "local_path": "images/U875310/U875310_01.jpg"
+        }
+      ],
+      "overview_text": "Innovative, reinforced inner lumen promotes axial strength for crossing tight lesions The GeoAlign™ Marking System is designed to help reduce radiation exposure by minimizing fluoroscopy time during repeat catheter placement* Multiple catheter lengths available designed to enable access from alternative sites For balloon lengths of 100 mm and greater, dual radiopaque markers are positioned on the distal portion of the balloon to differentiate the proximal and distal ends",
+      "overview_html": "<ul><li>Innovative, reinforced inner lumen promotes axial strength for crossing tight lesions</li><li>The GeoAlign™ Marking System is designed to help reduce radiation exposure by minimizing fluoroscopy time during repeat catheter placement*</li><li>Multiple catheter lengths available designed to enable access from alternative sites</li><li>For balloon lengths of 100 mm and greater, dual radiopaque markers are positioned on the distal portion of the balloon to differentiate the proximal and distal ends</li></ul>",
+      "features_and_benefits": [
+        {
+          "heading": "Advanced innovation for exceptional performance",
+          "description": null
+        },
+        {
+          "heading": "Superior Pushability – Innovative, reinforced inner lumen promotes improved axial strength for crossing tight lesions",
+          "description": null
+        },
+        {
+          "heading": "GeoAlign™ Marker Bands are designed to increase procedure efficiency by minimizing fluoroscopy exposure**",
+          "description": null
+        },
+        {
+          "heading": "Multiple catheter lengths available designed to enable alternative access procedures",
+          "description": null
+        },
+        {
+          "heading": "Dual marker bands designed for increased visibility for balloon lengths 100 mm and greater",
+          "description": null
+        }
+      ],
+      "references_html": "<p>* The GeoAlign™ Marking System is not a replacement for fluoroscopy. When the catheter is exposed to the vascular system, the location of the balloon should be confirmed while under high quality fluoroscopic observation.</p><p>Please consult Instructions for Use for product indications for use, contraindications, warnings, precautions, complications, adverse events and detailed safety information.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741054686",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Balloon Diameter",
+              "value": "3 mm"
+            },
+            {
+              "name": "Balloon Length",
+              "value": "10 cm"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "75 cm"
+            },
+            {
+              "name": "Sheath Size",
+              "value": "4 F"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.214986",
+      "sku": "214986",
+      "gtin": "00382902149866",
+      "title": "BD BBL™ MI Agar Plate 20pk",
+      "brand": "BD BBL™",
+      "category": "Dehydrated culture media",
+      "product_family": null,
+      "meta_description": "Learn more about BD BBL™ MI Agar Plate 20pk and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Bag",
+              "value": "10382902149863",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382902149866",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382902149867",
+              "quantity": "20"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Shelf Life (Days)",
+              "value": "84"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.123624ce",
+      "sku": "123624CE",
+      "gtin": "00801741171826",
+      "title": "Bardia™ Latex Foley Catheter (24 Fr)",
+      "brand": "Bardia™",
+      "category": "Standalone foley catheters",
+      "product_family": "Standard Foley Catheter",
+      "meta_description": "Straight, 30cc, 2-Way",
+      "image_urls": [],
+      "images": [],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Box",
+              "value": "10801741171823",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Case",
+              "value": "20801741171820",
+              "quantity": "320"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741171826",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "FDA, Premarket Approval, and Regulatory",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Size",
+              "value": "24 Fr"
+            },
+            {
+              "name": "Catheter Material",
+              "value": "Latex"
+            },
+            {
+              "name": "Catheter Balloon Volume",
+              "value": "30cc"
+            },
+            {
+              "name": "Catheter Lumens",
+              "value": "2-Way"
+            },
+            {
+              "name": "Catheter Tip Type",
+              "value": "Straight"
+            },
+            {
+              "name": "Catheter Coating",
+              "value": "Bard® Hydrogel Coating"
+            },
+            {
+              "name": "Catheter Temperature Sensing Capability",
+              "value": "No"
+            },
+            {
+              "name": "Catheter Temperature Sensing Connection",
+              "value": "None"
+            },
+            {
+              "name": "Natural Latex",
+              "value": "Yes"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "123612CE",
+          "title": "Bardia™ Latex Foley Catheter (12 Fr)"
+        },
+        {
+          "sku": "123614CE",
+          "title": "Bardia™ Latex Foley Catheter (14 Fr)"
+        },
+        {
+          "sku": "123616CE",
+          "title": "Bardia™ Latex Foley Catheter (16 Fr)"
+        },
+        {
+          "sku": "123618CE",
+          "title": "Bardia™ Latex Foley Catheter (18 Fr)"
+        },
+        {
+          "sku": "123620CE",
+          "title": "Bardia™ Latex Foley Catheter (20 Fr)"
+        },
+        {
+          "sku": "123622CE",
+          "title": "Bardia™ Latex Foley Catheter (22 Fr)"
+        },
+        {
+          "sku": "123626CE",
+          "title": "Bardia™ Latex Foley Catheter (26 Fr)"
+        },
+        {
+          "sku": "123628CE",
+          "title": "Bardia™ Latex Foley Catheter (28 Fr)"
+        },
+        {
+          "sku": "123630CE",
+          "title": "Bardia™ Latex Foley Catheter (30 Fr)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.072221",
+      "sku": "072221",
+      "gtin": "00801741049835",
+      "title": "Silicone Channel Drain (10 Fr) with Trocar",
+      "brand": null,
+      "category": "Wound drains",
+      "product_family": "Closed wound drains",
+      "meta_description": "Round, 3/4 fluted drain",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/Wound-Drain-Silicone-Channel.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/Wound-Drain-Silicone-Channel.jpg",
+          "local_path": "images/072221/072221_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Box",
+              "value": "20801741049839",
+              "quantity": "140"
+            },
+            {
+              "name": "GTIN - Case",
+              "value": "10801741049832",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741049835",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "FDA, Premarket Approval, and Regulatory",
+          "attributes": [
+            {
+              "name": "Natural Latex",
+              "value": "No"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Packaged with",
+              "value": "1/8 in Trocar"
+            },
+            {
+              "name": "Quantity",
+              "value": "10/ca"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Size",
+              "value": "10 Fr"
+            },
+            {
+              "name": "Shape",
+              "value": "Round"
+            },
+            {
+              "name": "Material",
+              "value": "Silicone"
+            },
+            {
+              "name": "Length",
+              "value": "—"
+            },
+            {
+              "name": "Natural Latex",
+              "value": "No"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "072186",
+          "title": "Silicone Channel Drain (10 Fr)"
+        },
+        {
+          "sku": "072187",
+          "title": "Silicone Channel Drain (10 Fr) with Trocar"
+        },
+        {
+          "sku": "072188",
+          "title": "Silicone Channel Drain (15 Fr)"
+        },
+        {
+          "sku": "072189",
+          "title": "Silicone Channel Drain (15 Fr) with Trocar"
+        },
+        {
+          "sku": "072192",
+          "title": "Silicone Channel Drain (19 Fr) with Trocar"
+        },
+        {
+          "sku": "072210",
+          "title": "Silicone Channel Drain (7 mm)"
+        },
+        {
+          "sku": "072211",
+          "title": "Silicone Channel Drain (7 mm)"
+        },
+        {
+          "sku": "072212",
+          "title": "Silicone Channel Drain (7 mm) with Trocar"
+        },
+        {
+          "sku": "072213",
+          "title": "Silicone Channel Drain (10 mm)"
+        },
+        {
+          "sku": "072215",
+          "title": "Silicone Channel Drain (10 mm) with Trocar"
+        },
+        {
+          "sku": "072217",
+          "title": "Silicone Channel Drain (10 mm) with Trocar"
+        },
+        {
+          "sku": "072223",
+          "title": "Silicone Channel Drain (15 Fr) with Trocar"
+        },
+        {
+          "sku": "072225",
+          "title": "Silicone Channel Drain (19 Fr) with Trocar"
+        },
+        {
+          "sku": "072226",
+          "title": "Silicone Channel Drain (10 Fr)"
+        },
+        {
+          "sku": "072227",
+          "title": "Silicone Channel Drain (10 Fr) with Trocar"
+        },
+        {
+          "sku": "072228",
+          "title": "Silicone Channel Drain (15 Fr)"
+        },
+        {
+          "sku": "072229",
+          "title": "Silicone Channel Drain (15 Fr) with Trocar"
+        },
+        {
+          "sku": "072230",
+          "title": "Silicone Channel Drain (19 Fr)"
+        },
+        {
+          "sku": "072231",
+          "title": "Silicone Channel Drain (19 Fr) with Trocar"
+        },
+        {
+          "sku": "072234",
+          "title": "Silicone Channel Drain (24 Fr)"
+        },
+        {
+          "sku": "072235",
+          "title": "Silicone Channel Drain (24 Fr)"
+        },
+        {
+          "sku": "072290",
+          "title": "Silicone Channel Drain (28 Fr)"
+        },
+        {
+          "sku": "072292",
+          "title": "Silicone Channel Drain (32 Fr)"
+        },
+        {
+          "sku": "072328",
+          "title": "Silicone Channel Drain (28 Fr)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.220889",
+      "sku": "220889",
+      "gtin": "00382902208891",
+      "title": "BD BBL™ Thioglycollate Medium, Fluid, 20 mL Tube 100pk",
+      "brand": "BD BBL™",
+      "category": "Dehydrated culture media",
+      "product_family": "BD BBL™ prepared tubed media",
+      "meta_description": "Learn more about BD BBL™ prepared tubed media and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": "BD BBL™ prepared tubed media enables the isolation and identification of microorganisms. Tubed media are ideal for cultures requiring prolonged incubation, since many can be incubated with tightly closed caps to prevent dehydration and subsequent inhibition of growth. Offering a wide variety of sizes, we can manufacture your individual culture medium in the size your application demands.",
+      "overview_html": "<p>BD BBL™ prepared tubed media enables the isolation and identification of microorganisms. Tubed media are ideal for cultures requiring prolonged incubation, since many can be incubated with tightly closed caps to prevent dehydration and subsequent inhibition of growth. Offering a wide variety of sizes, we can manufacture your individual culture medium in the size your application demands.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902208891",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382902208892",
+              "quantity": "100"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Shelf Life (Days)",
+              "value": "183"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.221322",
+      "sku": "221322",
+      "gtin": "00382902213222",
+      "title": "Malonate broth (Ewing modified) - K tube",
+      "brand": null,
+      "category": "Prepared culture media",
+      "product_family": "BD Mycoflask prepared media",
+      "meta_description": "Learn more about BD Mycoflask prepared media and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/PPM_Family_2018_Original_49597.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/PPM_Family_2018_Original_49597.png",
+          "local_path": "images/221322/221322_01.png"
+        }
+      ],
+      "overview_text": "BD Mycoflask™ is disposable and ready-to-use BD BBL™ culture media prepared in the special BD Mycoflask. This variety of media helps isolate and cultivate tubercle bacilli and fungi.",
+      "overview_html": "<p>BD Mycoflask™ is disposable and ready-to-use BD BBL™ culture media prepared in the special BD Mycoflask. This variety of media helps isolate and cultivate tubercle bacilli and fungi.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902213222",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382902213223",
+              "quantity": "10"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Shelfpack",
+              "value": "10"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.221687",
+      "sku": "221687",
+      "gtin": "00382902216872",
+      "title": "Phenol red broth with lactose and Durham - K tube",
+      "brand": "BD BBL™",
+      "category": "Prepared culture media",
+      "product_family": "BD Mycoflask prepared media",
+      "meta_description": "Learn more about BD Mycoflask prepared media and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/PPM_Family_2018_Original_49597.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/PPM_Family_2018_Original_49597.png",
+          "local_path": "images/221687/221687_01.png"
+        }
+      ],
+      "overview_text": "BD Mycoflask™ is disposable and ready-to-use BD BBL™ culture media prepared in the special BD Mycoflask. This variety of media helps isolate and cultivate tubercle bacilli and fungi.",
+      "overview_html": "<p>BD Mycoflask™ is disposable and ready-to-use BD BBL™ culture media prepared in the special BD Mycoflask. This variety of media helps isolate and cultivate tubercle bacilli and fungi.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902216872",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382902216873",
+              "quantity": "10"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Shelfpack",
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Shelf Life (Days)",
+              "value": "365"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.366408",
+      "sku": "366408",
+      "gtin": "00382903664085",
+      "title": "BD Vacutainer® Bulk tube: Plus plastic no additive (Z) tube",
+      "brand": "BD Vacutainer®",
+      "category": "BD Vacutainer® urine collection and transfer products",
+      "product_family": "BD Vacutainer® urine collection bulk products",
+      "meta_description": "Learn more about BD Vacutainer® urine collection bulk products and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/vacutainer-blood-tubes_C_PAS_BC_0616-0053.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/vacutainer-blood-tubes_C_PAS_BC_0616-0053.png",
+          "local_path": "images/366408/366408_01.jpg"
+        }
+      ],
+      "overview_text": "BD Vacutainer® urine collection bulk products provide solutions that help collect, transport and process urine specimens.",
+      "overview_html": "<p>BD Vacutainer® urine collection bulk products provide solutions that help collect, transport and process urine specimens.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50382903664080",
+              "quantity": "1000"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382903664085",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382903664086",
+              "quantity": "100"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Case",
+              "value": "1000"
+            },
+            {
+              "name": "Quantity - Box",
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Tube Size/Draw Volume",
+              "value": "13 x 100 mm/6.0 mL"
+            },
+            {
+              "name": "Closure Type/Color",
+              "value": "BD Hemogard™ Closure/clear"
+            },
+            {
+              "name": "Additive/Concentration",
+              "value": "No additive"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.zbl06020",
+      "sku": "ZBL06020",
+      "gtin": "04049519009988",
+      "title": "E-Luminexx™ Biliary Stent, 6 mm x 20 mm, 135 cm catheter length, 6 Fr",
+      "brand": "E-Luminexx™",
+      "category": "Biliary stents",
+      "product_family": "E-Luminexx™ Biliary Stents",
+      "meta_description": "Learn more about E-Luminexx™ Biliary Stents and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/eluminexx_img.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/eluminexx_img.png",
+          "local_path": "images/ZBL06020/ZBL06020_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [
+        {
+          "heading": "Designed for exceptional visibility under fluoroscopy, which significantly enhances stent placement accuracy",
+          "description": null
+        },
+        {
+          "heading": "The proprietary interlocking Puzzle™ Tantalum marker assures permanent attachment",
+          "description": null
+        },
+        {
+          "heading": "Dimensional design changes facilitate harmonization of radial force across the range of product diameters",
+          "description": null
+        },
+        {
+          "heading": "Open cell, flexible mesh design with minimal length change during deployment",
+          "description": null
+        },
+        {
+          "heading": "2 mm flared stent ends designed to resist migration and compensate for lumen tapering",
+          "description": null
+        }
+      ],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "04049519009988",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Diameter",
+              "value": "6 mm"
+            },
+            {
+              "name": "Length",
+              "value": "20 mm"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "135 cm"
+            },
+            {
+              "name": "Guidewire Type",
+              "value": "0.035″"
+            },
+            {
+              "name": "Catheter Diameter",
+              "value": "6F"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.mq1410",
+      "sku": "MQ1410",
+      "gtin": "00801741097133",
+      "title": "Marquee™ Disposable Core Biopsy Instrument",
+      "brand": "Marquee™",
+      "category": null,
+      "product_family": "Marquee™ Disposable Core Biopsy Instrument",
+      "meta_description": "14G x 10cm",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/marquee/MQ1410.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/marquee/MQ1410.png",
+          "local_path": "images/MQ1410/MQ1410_01.png"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741097130",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741097133",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Coaxial Needle Length",
+              "value": "N/A"
+            },
+            {
+              "name": "Coaxial Stylet Needle Length",
+              "value": "N/A"
+            },
+            {
+              "name": "Coaxial Total Cannula Length",
+              "value": "N/A"
+            },
+            {
+              "name": "Gauge Size",
+              "value": "14"
+            },
+            {
+              "name": "Length",
+              "value": "10 cm"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.us35130520",
+      "sku": "US35130520",
+      "gtin": "00801741116803",
+      "title": "Ultrascore™ Focused Force PTA Balloon",
+      "brand": "Ultrascore™",
+      "category": null,
+      "product_family": "Ultrascore™ Focused Force PTA Balloon",
+      "meta_description": "See specifications for balloon and catheter sizes and compatibilities",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/4l30qzdcgtsfv35htmjbmfncq34hczcj.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/4l30qzdcgtsfv35htmjbmfncq34hczcj.jpg",
+          "local_path": "images/US35130520/US35130520_01.jpg"
+        }
+      ],
+      "overview_text": "Specialty Scoring Balloon Focused Force Dilatation Low Profile, Over-the-Wire Design 2 Longitudinal .010″ wires placed 180 degrees apart .014″ & .035″ Compatible Broadest Scoring Balloon Portfolio (up to 300mm) 2 GeoAlign™ Marking System The UltraScore™ Balloon is the first commercially available .035” scoring balloon, with sizes available on both .014” and .035” guidewire platforms.",
+      "overview_html": "<ul><li>Specialty Scoring Balloon</li><li>Focused Force Dilatation</li><li>Low Profile, Over-the-Wire Design</li><li>2 Longitudinal .010″ wires placed 180 degrees apart</li><li>.014″ &amp; .035″ Compatible</li><li>Broadest Scoring Balloon Portfolio (up to 300mm)<sup>2</sup></li><li>GeoAlign™ Marking System</li></ul><p>The UltraScore™ Balloon is the first commercially available .035” scoring balloon, with sizes available on both .014” and .035” guidewire platforms.</p>",
+      "features_and_benefits": [],
+      "references_html": "<ol><li>As of July 2024.</li><li>Based on theoretical calculation using equation P=F/A comparing UltraScore™ Balloon to POBA. Data on File, Bard Peripheral Vascular, Inc., Tempe, AZ. May not be predictive of clinical performance. Different tests may yield different results.</li><li>The GeoAlign™ Marking System provides an approximation that may not be an exact representation of the actual distance traveled intravascularly and should be confirmed under fluoroscopy. The GeoAlign™ Marking System is not a replacement for fluoroscopy. When the catheter is exposed to the vascular system, the location of the balloon should be confirmed while under high quality fluoroscopic observation. Animal data on file at Becton, Dickinson and Company, Tempe, AZ. Animal test results may not be indicative of clinical performance. Different test methods may yield different results.</li></ol><p>Please consult Instructions for Use under Resources for product indications for use, contraindications, warnings, precautions, complications, adverse events and detailed safety information.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741116803",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Wire Compatibility",
+              "value": "0.035\""
+            },
+            {
+              "name": "Balloon Diameter",
+              "value": "5 mm"
+            },
+            {
+              "name": "Balloon Length",
+              "value": "200 mm"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "130 cm"
+            },
+            {
+              "name": "French Size",
+              "value": "6F"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.pa-0029",
+      "sku": "PA-0029",
+      "gtin": "00801741085482",
+      "title": "SafeStep™ Huber Needle Set PAK, 22 G x 0.75 in.",
+      "brand": "SafeStep™",
+      "category": "Port access devices",
+      "product_family": "SafeStep™ Huber Needle Set",
+      "meta_description": "Learn more about SafeStep™ Huber Needle Set and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": "An all-in-one solution to simplify the multi-step sterile prep process",
+      "overview_html": "<p>An all-in-one solution to simplify the multi-step sterile prep process</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741085489",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741085482",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Package",
+              "value": "5/case"
+            },
+            {
+              "name": "Minimum Order Quantity",
+              "value": "1/case"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Length",
+              "value": ".75\""
+            },
+            {
+              "name": "Size",
+              "value": "22 Ga"
+            },
+            {
+              "name": "Y-Site",
+              "value": "without NAC® Needleless Access Y-Site"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.221548",
+      "sku": "221548",
+      "gtin": "00382902215486",
+      "title": "Plate Brucella 5% Horse Blood 100 Ea",
+      "brand": null,
+      "category": null,
+      "product_family": null,
+      "meta_description": "Learn more about Plate Brucella 5% Horse Blood 100 Ea and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/bbl-prepared-plated-media_C_DS_PM_0616-0007.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/bbl-prepared-plated-media_C_DS_PM_0616-0007.png",
+          "local_path": "images/221548/221548_01.png"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Bag",
+              "value": "10382902215483",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382902215486",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382902215487",
+              "quantity": "100"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Shelf Life (Days)",
+              "value": "42"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.dr80102",
+      "sku": "DR80102",
+      "gtin": "00801741059490",
+      "title": "Dorado™ PTA Balloon Dilatation Catheter, 6 Fr, 10 mm x 2 cm balloon, 80 cm shaft length",
+      "brand": "Dorado™",
+      "category": null,
+      "product_family": "Dorado™ PTA Dilatation Catheters",
+      "meta_description": "Learn more about Dorado™ PTA Dilatation Catheters and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/p0rxeiem19nc0ewkxzuj1fs7lmqyaofb.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/p0rxeiem19nc0ewkxzuj1fs7lmqyaofb.jpg",
+          "local_path": "images/DR80102/DR80102_01.jpg"
+        }
+      ],
+      "overview_text": "Provides strength and versatility with enhanced deliverability, making this ultra non-compliant balloon the right choice for challenging lesions Enhanced deliverability Checker ™ Flex Points provide increased flexibility in tortuous anatomy",
+      "overview_html": "<h3>Provides strength and versatility with enhanced deliverability, making this ultra non-compliant balloon the right choice for challenging lesions</h3><h3>Enhanced deliverability</h3><ul><li>Checker<sup>™</sup> Flex Points provide increased flexibility in tortuous anatomy</li></ul>",
+      "features_and_benefits": [
+        {
+          "heading": "Provides strength and versatility with enhanced deliverability, making this ultra non-compliant balloon the optimal choice for challenging lesions",
+          "description": null
+        },
+        {
+          "heading": "Enhanced deliverability",
+          "description": null
+        },
+        {
+          "heading": "Checker™ Flex Points provide increased flexibility in tortuous anatomy",
+          "description": null
+        },
+        {
+          "heading": "Improved shaft design promotes faster inflation and deflation",
+          "description": null
+        }
+      ],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741059490",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Balloon Diameter",
+              "value": "10 mm"
+            },
+            {
+              "name": "Balloon Length",
+              "value": "2 cm"
+            },
+            {
+              "name": "Nominal Pressure (atm)",
+              "value": "8"
+            },
+            {
+              "name": "Rated Burst Pressure (atm)",
+              "value": "20"
+            },
+            {
+              "name": "Shaft Length",
+              "value": "80 cm"
+            },
+            {
+              "name": "Sheath Size",
+              "value": "6 F"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.ecpmr0110gbt",
+      "sku": "ECPMR0110GBT",
+      "gtin": "00801741086311",
+      "title": "EnCor™ MRI Blunt Tip Probe - 10G",
+      "brand": "EnCor Enspire™",
+      "category": "Breast biopsy systems",
+      "product_family": "EnCor Enspire™ Breast Biopsy System",
+      "meta_description": "Learn more about EnCor Enspire™ Breast Biopsy System and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/EnCor_probe_686x390.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/EnCor_probe_686x390.png",
+          "local_path": "images/ECPMR0110GBT/ECPMR0110GBT_01.png"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741086318",
+              "quantity": "5"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741086311",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Product Type",
+              "value": "Probes"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.50-7500b",
+      "sku": "50-7500B",
+      "gtin": "10885403090714",
+      "title": "PleurX™ Drainage Kit with 500 mL bottle",
+      "brand": "PleurX™",
+      "category": null,
+      "product_family": "PleurX™ Pleural Catheter System",
+      "meta_description": "for use with the PleurX™ Catheter System or PeritX™ Catheter System",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/peritx-and-pleurx/50-7500B.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/peritx-and-pleurx/50-7500B.jpg",
+          "local_path": "images/50-7500B/50-7500B_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50885403090712",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "10885403090714",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Case",
+              "value": "10"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.ex080201cd",
+      "sku": "EX080201CD",
+      "gtin": "04049519000336",
+      "title": "LifeStent™ Biliary Stent, 8mm x 20mm, 80cm catheter length",
+      "brand": "LifeStent™",
+      "category": "Biliary stents",
+      "product_family": "LifeStent™ Biliary Stent System",
+      "meta_description": "Learn more about LifeStent™ Biliary Stent System and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/life_stent_img.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/life_stent_img.png",
+          "local_path": "images/EX080201CD/EX080201CD_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [
+        {
+          "heading": "Unique helical design",
+          "description": null
+        },
+        {
+          "heading": "Engineered for bending, compression, torsion",
+          "description": null
+        },
+        {
+          "heading": "Dynamic vessel conformability",
+          "description": null
+        }
+      ],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "04049519000336",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Diameter",
+              "value": "6F"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "80 cm"
+            },
+            {
+              "name": "Guidewire Length",
+              "value": "0 .035\""
+            },
+            {
+              "name": "Stent Diameter",
+              "value": "8 mm"
+            },
+            {
+              "name": "Stent Length",
+              "value": "20 mm"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.lw0057",
+      "sku": "LW0057",
+      "gtin": "00801741079733",
+      "title": "Bard™DuaLok™ Breast Lesion Localization Wire",
+      "brand": "DuaLok™",
+      "category": "Breast localization wires",
+      "product_family": "Bard® DuaLok™ Breast Localization Wire",
+      "meta_description": "20G x 5.7cm",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/6hzygvexzvsl28g573fu6e5fh5mdlzht.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/4n680hf6wggirwcn9l6i8d40zexdob3c.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/6hzygvexzvsl28g573fu6e5fh5mdlzht.png",
+          "local_path": "images/LW0057/LW0057_01.png"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/4n680hf6wggirwcn9l6i8d40zexdob3c.png",
+          "local_path": "images/LW0057/LW0057_02.jpg"
+        }
+      ],
+      "overview_text": "Locks in secure placement. Locks out wire migration. Wire designed to aid in secure placement. Locking elements provide you with migration resistance. Unlike other wires, the Bard™ DuaLok™ Breast Localization Wire allows you to reposition it after placement if necessary.",
+      "overview_html": "<h3>Locks in secure placement. Locks out wire migration.</h3><ul><li>Wire designed to aid in secure placement.</li><li>Locking elements provide you with migration resistance.</li><li>Unlike other wires, the Bard™<sup></sup>DuaLok™ Breast Localization Wire allows you to reposition it after placement if necessary.</li></ul>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "10801741079730",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741079733",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Gauge Size",
+              "value": "20"
+            },
+            {
+              "name": "Length",
+              "value": "5.7 cm"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.366450",
+      "sku": "366450",
+      "gtin": "00382903664504",
+      "title": "BD Vacutainer® EDTA Tubes",
+      "brand": "BD Vacutainer®",
+      "category": null,
+      "product_family": "BD Vacutainer® blood collection tubes",
+      "meta_description": "Learn more about BD Vacutainer® blood collection tubes and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/PAS_BC_0616-0021.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/vacutainer-blood-tubes_C_PAS_BC_0616-0053.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/PAS_BC_0616-0021.png",
+          "local_path": "images/366450/366450_01.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/vacutainer-blood-tubes_C_PAS_BC_0616-0053.png",
+          "local_path": "images/366450/366450_02.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "50382903664509",
+              "quantity": "1000"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00382903664504",
+              "quantity": "1"
+            },
+            {
+              "name": "GTIN - Shelfpack",
+              "value": "30382903664505",
+              "quantity": "100"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Box",
+              "value": "100"
+            },
+            {
+              "name": "Quantity - Case",
+              "value": "1000"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Glass or Plastic",
+              "value": "G"
+            },
+            {
+              "name": "Tube Size",
+              "value": "13x100"
+            },
+            {
+              "name": "Draw Volume",
+              "value": "7"
+            },
+            {
+              "name": "Closure Type/Color",
+              "value": "Conventional/lavender"
+            },
+            {
+              "name": "Label Type",
+              "value": "Paper"
+            },
+            {
+              "name": "Additive/Concentration",
+              "value": "K3EDTA 12.15 mg (15% solution, 0.081 mL)"
+            }
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What type of plastic is used to produce BD Vacutainer blood collection tubes?",
+          "answer": "BD Vacutainer Plus Tubes are made of a special formulation of the plastic, polyethylene terephthalate (PET). This special formulation is extremely strong, dimensionally stable, and resistant to chemicals and breakage."
+        },
+        {
+          "question": "What speed and time should the BD Vacutainer Blood Collection tubes be spun at?",
+          "answer": "All non-gel separator blood collection tubes, including those that contain heparin, EDTA and non-gel serum tubes can be centrifuged at ≤1300 RCF for 10 minutes. The BD Vacutainer SST and PST gel tubes should be spun at room temperature at a speed of 1000 to 1300 RCF for 10 minutes in a swinging bucket centrifuge and 15 minutes in a fixed-angle centrifuge. The BD Vacutainer Barricor plasma blood collection tubes have a mechanical separator and must be spun at a minimum RCF of 1800 for 10 min in a swinging bucket centrifuge. BD Barricor tubes are optimally spun at an RCF of 4000 for 3 min in a swinging bucket centrifuge. BD Barricor tubes are not compatible with fixed angle centrifuges."
+        },
+        {
+          "question": "What coatings layer the walls of BD Vacutainer Plus serum and SST tubes?",
+          "answer": "BD Vacutainer Plus plastic serum and SST tubes are coated with silicone and micronized silica particles to accelerate clotting. A silicone coating reduces adherence of red cells to tube walls. The silica coating can sometimes cause the inner tube wall to appear cloudy and/or filmy. This cloudy appearance does not make the tubes unacceptable for use."
+        },
+        {
+          "question": "How are BD Vacutainer blood collection tubes packaged?",
+          "answer": "Most BD Vacutainer blood collection tubes are packaged 100 tubes/box and 1,000 tubes/case (10 boxes)."
+        },
+        {
+          "question": "Are BD Vacutainer blood collection tubes endotoxin free?",
+          "answer": "No, BD does not claim that any of the Vacutainer blood collection tubes are endotoxin free."
+        },
+        {
+          "question": "Do BD Vacutainer® blood collection tubes expire at the beginning or end of the month?",
+          "answer": "The expiration date on the tube label is stated as a Year/Month/Day."
+        },
+        {
+          "question": "How should expired BD Vacutainer blood collection tubes be disposed of?",
+          "answer": "Local trash collectors should be consulted to see what the proper method of disposal is for unused, expired blood collection products."
+        },
+        {
+          "question": "Are BD Vacutainer blood collection tubes sterile?",
+          "answer": "Yes, BD Vacutainer blood collection tubes have a sterile interior. Tubes are sterilized by gamma radiation."
+        },
+        {
+          "question": "Can BD Vacutainer blood collection tubes be re-sterilized, for introduction into a sterile field?",
+          "answer": "BD Vacutainer tubes are irradiated to achieve sterility. These tubes are sterile on the interior only. We cannot recommend re-sterilizing the tubes, i.e., ETO (ethylene oxide) or autoclaving, primarily due to pressure changes that take place during the re-sterilization cycle. Our tubes are under a specific negative pressure. During the re-sterilization cycle this negative pressure may be disrupted and therefore the tubes may not draw the proper blood volume."
+        },
+        {
+          "question": "Does BD offer any tubes that can be introduced into a sterile field?",
+          "answer": "BD does offer a sterile peel-apart pouch (reference number 366401) that contains a 10 mL glass red top serum tube and 7 mL glass lavender top EDTA tube."
+        },
+        {
+          "question": "What type of plastic is used to produce BD Vacutainer blood collection tubes?",
+          "answer": "BD Vacutainer Plus Tubes are made of a special formulation of the plastic, polyethylene terephthalate (PET). This special formulation is extremely strong, dimensionally stable, and resistant to chemicals and breakage."
+        },
+        {
+          "question": "What speed and time should the BD Vacutainer Blood Collection tubes be spun at?",
+          "answer": "All non-gel separator blood collection tubes, including those that contain heparin, EDTA and non-gel serum tubes can be centrifuged at ≤1300 RCF for 10 minutes. The BD Vacutainer SST and PST gel tubes should be spun at room temperature at a speed of 1000 to 1300 RCF for 10 minutes in a swinging bucket centrifuge and 15 minutes in a fixed-angle centrifuge. The BD Vacutainer Barricor plasma blood collection tubes have a mechanical separator and must be spun at a minimum RCF of 1800 for 10 min in a swinging bucket centrifuge. BD Barricor tubes are optimally spun at an RCF of 4000 for 3 min in a swinging bucket centrifuge. BD Barricor tubes are not compatible with fixed angle centrifuges."
+        },
+        {
+          "question": "What coatings layer the walls of BD Vacutainer Plus serum and SST tubes?",
+          "answer": "BD Vacutainer Plus plastic serum and SST tubes are coated with silicone and micronized silica particles to accelerate clotting. A silicone coating reduces adherence of red cells to tube walls. The silica coating can sometimes cause the inner tube wall to appear cloudy and/or filmy. This cloudy appearance does not make the tubes unacceptable for use."
+        },
+        {
+          "question": "How are BD Vacutainer blood collection tubes packaged?",
+          "answer": "Most BD Vacutainer blood collection tubes are packaged 100 tubes/box and 1,000 tubes/case (10 boxes)."
+        },
+        {
+          "question": "Are BD Vacutainer blood collection tubes endotoxin free?",
+          "answer": "No, BD does not claim that any of the Vacutainer blood collection tubes are endotoxin free."
+        },
+        {
+          "question": "Do BD Vacutainer® blood collection tubes expire at the beginning or end of the month?",
+          "answer": "The expiration date on the tube label is stated as a Year/Month/Day."
+        },
+        {
+          "question": "How should expired BD Vacutainer blood collection tubes be disposed of?",
+          "answer": "Local trash collectors should be consulted to see what the proper method of disposal is for unused, expired blood collection products."
+        },
+        {
+          "question": "Are BD Vacutainer blood collection tubes sterile?",
+          "answer": "Yes, BD Vacutainer blood collection tubes have a sterile interior. Tubes are sterilized by gamma radiation."
+        },
+        {
+          "question": "Can BD Vacutainer blood collection tubes be re-sterilized, for introduction into a sterile field?",
+          "answer": "BD Vacutainer tubes are irradiated to achieve sterility. These tubes are sterile on the interior only. We cannot recommend re-sterilizing the tubes, i.e., ETO (ethylene oxide) or autoclaving, primarily due to pressure changes that take place during the re-sterilization cycle. Our tubes are under a specific negative pressure. During the re-sterilization cycle this negative pressure may be disrupted and therefore the tubes may not draw the proper blood volume."
+        },
+        {
+          "question": "Does BD offer any tubes that can be introduced into a sterile field?",
+          "answer": "BD does offer a sterile peel-apart pouch (reference number 366401) that contains a 10 mL glass red top serum tube and 7 mL glass lavender top EDTA tube."
+        }
+      ],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.443506",
+      "sku": "443506",
+      "gtin": null,
+      "title": "BD Viper™ LT System Instrument Manual",
+      "brand": "BD Viper™",
+      "category": null,
+      "product_family": "BD Viper™ LT system",
+      "meta_description": "Learn more about BD Viper™ LT system and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/viper-lt-system_C_DS_MD_202642173.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/viper-lt-system_C_DS_MD_202642173.png",
+          "local_path": "images/443506/443506_01.png"
+        }
+      ],
+      "overview_text": "The BD Viper™ LT system provides fully automated, integrated molecular testing on a tabletop analyzer.",
+      "overview_html": "<p>The BD Viper™ LT system provides fully automated, integrated molecular testing on a tabletop analyzer.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.0134610",
+      "sku": "0134610",
+      "gtin": "00801741031281",
+      "title": "Composix™ L/P Mesh with Introducer Tool, Oval, 6.2 in x 10.2 in (15.9 cm x 26.1 cm)",
+      "brand": "Composix™",
+      "category": "Synthetic mesh",
+      "product_family": "Composix™ L P Mesh",
+      "meta_description": "Learn more about Composix™ L P Mesh and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/surgery/Composix-LP.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/surgery/Composix-LP.jpg",
+          "local_path": "images/0134610/0134610_01.jpg"
+        }
+      ],
+      "overview_text": "A low-profile, large pore polypropylene/ePTFE prosthesis for laparoscopic ventral hernia repair. The Composix™ L/P Mesh is a lightweight, low profile prosthesis that fits easily through a trocar and offers a permanent barrier that is designed to minimize visceral attachment. The parietal side of the Composix™ L/P Mesh features large pore, lightweight polypropylene Bard™ Soft Mesh which encourages rapid tissue ingrowth for a strong repair while leaving less foreign material in the body. The visceral side features Bard ® submicronic permanent ePTFE barrier with over 12 years of clinical success in minimizing tissue attachment.",
+      "overview_html": "<p>A low-profile, large pore polypropylene/ePTFE prosthesis for laparoscopic ventral hernia repair.</p><p>The Composix™ L/P Mesh is a lightweight, low profile prosthesis that fits easily through a trocar and offers a permanent barrier that is designed to minimize visceral attachment. The parietal side of the Composix™ L/P Mesh features large pore, lightweight polypropylene Bard™ Soft Mesh which encourages rapid tissue ingrowth for a strong repair while leaving less foreign material in the body. The visceral side features Bard<sup>®</sup> submicronic permanent ePTFE barrier with over 12 years of clinical success in minimizing tissue attachment.</p>",
+      "features_and_benefits": [],
+      "references_html": "<p>INDICATIONS</p><p>Bard™ Composix™ L/P Mesh is indicated for use in the reconstruction of soft tissue deficiencies, such as for the repair of hernias and chest wall defects.</p><p><b>CONTRAINDICATIONS</b></p><p>Literature reports there may be a possibility for adhesion formation when the polypropylene is placed in direct contact with the bowel or viscera. Do not use the Bard™ Composix™ L/P Mesh in infants or children whereby future growth will be compromised by use of such material.</p><p>Do not use Bard™ Composix™ L/P Mesh for the reconstruction of cardiovascular defects.</p><p><b>PRECAUTIONS</b></p><p>Davol fixation devices or nonabsorable monofilament sutures are recommended to properly secure the prosthesis. If other fixation devices are used, they must be indicated for use in hernia repair. Care should be taken to ensure that the prosthesis is adequately fixated to the abdominal wall. If necessary, additional fasteners and/or sutures should be used.</p><p><b>WARNINGS</b></p><p>Ensure proper orientation; the solid white surface (ePTFE) must be oriented against the bowel or sensitive organs. Do not place the polypropylene mesh surface against the bowel. There may be a possibility for adhesion formation when polypropylene mesh is placed in direct contact with the bowel or viscera.</p><p><b>ADVERSE REACTIONS</b></p><p>Possible complications include seroma, adhesions, hematomas, inflammation, extrusion, fistula formation and recurrence of the hernia or soft tissue defect.</p><p>Please consult package insert for more detailed safety information and instructions for use.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Case",
+              "value": "00801741031281",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "1/cs"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Dimensions",
+              "value": "6.2\" x 10.2\" (15.9cm x 26.1cm) Oval with Introducer Tool"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": [
+        {
+          "sku": "0144113",
+          "title": "Composix™ L/P Mesh with Echo PS™ Positioning System, Ellipse, 10.2 in x 13.2 in (26.1 cm x 33.7 cm)"
+        },
+        {
+          "sku": "0144114",
+          "title": "Composix™ L/P Mesh with Echo PS™ Positioning System, Rectangle, 10.2 in x 14.2 in (26.1 cm x 36.2 cm)"
+        },
+        {
+          "sku": "0144610",
+          "title": "Composix™ L/P Mesh with Echo PS™ Positioning System, Ellipse, 6.2 in x 8.2 in (15.9 cm x 21.0 cm)"
+        },
+        {
+          "sku": "0144680",
+          "title": "Composix™ L/P Mesh with Echo PS™ Positioning System, Oval, 6.2 in x 10.2 in (15.9 cm x 26.1 cm)"
+        },
+        {
+          "sku": "0144790",
+          "title": "Composix™ L/P Mesh with Echo PS™ Positioning System, Ellipse, 7.2 in x 9.2 in (18.4 cm x 23.5 cm)"
+        },
+        {
+          "sku": "0144810",
+          "title": "Composix™ L/P Mesh with Echo PS™ Positioning System, Ellipse, 8.2 in x 10.2 in (21.0 cm x 26.1 cm)"
+        },
+        {
+          "sku": "5955000",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System"
+        },
+        {
+          "sku": "5955113",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Ellipse, 10 in x 13 in (25.4 cm x 33.0 cm)"
+        },
+        {
+          "sku": "5955124",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Rectangle, 12 in x 14 in (30.5 cm x 35.6 cm)"
+        },
+        {
+          "sku": "5955450",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Circle, 4.5 in (11.4 cm)"
+        },
+        {
+          "sku": "5955460",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Ellipse, 4 in x 6 in (10.2 cm x 15.2 cm)"
+        },
+        {
+          "sku": "5955600",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Circle, 6 in (15.2 cm)"
+        },
+        {
+          "sku": "5955610",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Ellipse, 6 in x 8 in (15.2 cm x 20.3 cm)"
+        },
+        {
+          "sku": "5955680",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Circle, 8 in (20.3 cm)"
+        },
+        {
+          "sku": "5955790",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Oval, 6 in x 10 in (15.2 cm x 25.4 cm)"
+        },
+        {
+          "sku": "5955800",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Ellipse, 7 in x 9 in (17.8 cm x 22.9 cm)"
+        },
+        {
+          "sku": "5955810",
+          "title": "Ventralight™ ST Mesh with Echo PS™ Positioning System, Ellipse, 8 in x 10 in (20.3 cm x 25.4 cm)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.212263",
+      "sku": "212263",
+      "gtin": "00382902122630",
+      "title": "BD BBL™ Trypticase™ Soy Agar with Lecithin and Polysorbate 80, 5lb Pail",
+      "brand": "BD BBL™",
+      "category": null,
+      "product_family": "Dehydrated culture media and additives",
+      "meta_description": "Learn more about Dehydrated culture media and additives and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/deydrated-media-additives_RC_DS_culture-media-49609.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/integrated-diagnostic-solutions/deydrated-media-additives_RC_DS_culture-media-49609.png",
+          "local_path": "images/212263/212263_01.png"
+        }
+      ],
+      "overview_text": "BD supplies more than 400 different BD Difco™ and BD BBL™ brand media formulations and ingredients in dehydrated form for the convenience of the laboratorian and bioprocessing specialist.",
+      "overview_html": "<p>BD supplies more than 400 different BD Difco™ and BD BBL™ brand media formulations and ingredients in dehydrated form for the convenience of the laboratorian and bioprocessing specialist.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902122630",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Storage and Handling",
+          "attributes": [
+            {
+              "name": "Shelf Life (Days)",
+              "value": "1460"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.263410",
+      "sku": "263410",
+      "gtin": "00382902634102",
+      "title": "Nutrient Agar pH 6.0 General purpose medium for cultivation of microorganisms requiring slightly acidic pH",
+      "brand": "BD Difco™",
+      "category": null,
+      "product_family": "Dehydrated culture media and additives",
+      "meta_description": "Learn more about Dehydrated culture media and additives and other BD products today.",
+      "image_urls": [],
+      "images": [],
+      "overview_text": "BD supplies more than 400 different BD Difco™ and BD BBL™ brand media formulations and ingredients in dehydrated form for the convenience of the laboratorian and bioprocessing specialist.",
+      "overview_html": "<p>BD supplies more than 400 different BD Difco™ and BD BBL™ brand media formulations and ingredients in dehydrated form for the convenience of the laboratorian and bioprocessing specialist.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00382902634102",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "500 g/EA"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.f320107t",
+      "sku": "F320107T",
+      "gtin": "00801741140532",
+      "title": "PowerGlide Pro™ Midline Catheter with Reinforced Tip Basic Tray with BIOPATCH™, 20 G, 10 cm",
+      "brand": "PowerGlide™",
+      "category": "Midline IV catheters",
+      "product_family": "PowerGlide Pro™ Midline Catheter",
+      "meta_description": "Learn more about PowerGlide Pro™ Midline Catheter and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/powerglidepro_hero.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/medication-delivery-solutions/powerglidepro_hero.png",
+          "local_path": "images/F320107T/F320107T_01.png"
+        }
+      ],
+      "overview_text": "Helping to provide options for all your midline patient needs Our goal is to provide exceptional vascular access products. We leave it up to you, the skilled clinician to choose the best device for your patients. We provide the options, you provide the expertise.",
+      "overview_html": "<h3>Helping to provide options for all your midline patient needs</h3><p>Our goal is to provide exceptional vascular access products. We leave it up to you, the skilled clinician to choose the best device for your patients. We provide the options, you provide the expertise.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Box",
+              "value": "20801741140536",
+              "quantity": "20"
+            },
+            {
+              "name": "GTIN - Case",
+              "value": "10801741140539",
+              "quantity": "10"
+            },
+            {
+              "name": "GTIN - Each",
+              "value": "00801741140532",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "20/case"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Length",
+              "value": "10 cm"
+            },
+            {
+              "name": "Power Injection Flow Rate",
+              "value": "5 mL/sec"
+            },
+            {
+              "name": "Size",
+              "value": "20 G"
+            },
+            {
+              "name": "Tray Type",
+              "value": "Basic Tray with BioPatch"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.fel06040",
+      "sku": "FEL06040",
+      "gtin": "04049519008035",
+      "title": "Fluency™ Plus Endovascular Stent Graft 6mm x 40 mm (117 cm catheter)",
+      "brand": "Fluency™",
+      "category": "Vascular stent grafts",
+      "product_family": "Fluency™ Plus Endovascular Stent Graft",
+      "meta_description": "Learn more about Fluency™ Plus Endovascular Stent Graft and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/product_fluency_plus.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/product_fluency_plus.png",
+          "local_path": "images/FEL06040/FEL06040_01.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [
+        {
+          "heading": "A broad range of implant diameters and lengths for the treatment of in-stent restenotic peripheral and central lesions* in patients with AV grafts and AV fistulae",
+          "description": null
+        },
+        {
+          "heading": "Small incremental stent graft lengths to help maintain venous real estate and cannulation area",
+          "description": null
+        },
+        {
+          "heading": "Minimal shortening and radiopaque markers aid in excellent placement accuracy",
+          "description": null
+        }
+      ],
+      "references_html": "<p>*Central Veins=Subclavian Vein and Brachiocephalic Vein</p><p>Please consult Instructions for Use for product indications for use, contraindications, warnings, precautions, complications, adverse events and detailed safety information.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "04049519008035",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity - Each",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Catheter Diameter",
+              "value": "8 F"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "117 cm"
+            },
+            {
+              "name": "Guidewire Length",
+              "value": "0.035 in"
+            },
+            {
+              "name": "Stent Graft Diameter",
+              "value": "6 mm"
+            },
+            {
+              "name": "Stent Graft Length",
+              "value": "40 mm"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.venum12140",
+      "sku": "VENUM12140",
+      "gtin": "00801741103322",
+      "title": "Venovo™ Venous Stent System",
+      "brand": "Venovo™",
+      "category": "Venous stents",
+      "product_family": "Venovo™ Venous Stent System",
+      "meta_description": "Learn more about Venovo™ Venous Stent System and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_Venovo-US-Main.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_Venovo-stent.png",
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_Venovo-US-Overview.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_Venovo-US-Main.png",
+          "local_path": "images/VENUM12140/VENUM12140_01.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_Venovo-stent.png",
+          "local_path": "images/VENUM12140/VENUM12140_02.jpg"
+        },
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/BD_BARD_Venovo-US-Overview.png",
+          "local_path": "images/VENUM12140/VENUM12140_03.jpg"
+        }
+      ],
+      "overview_text": null,
+      "overview_html": null,
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741103322",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Stent Diameter",
+              "value": "12 mm"
+            },
+            {
+              "name": "Stent Length",
+              "value": "140 mm"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "80 cm"
+            },
+            {
+              "name": "Guidewire Type",
+              "value": "0.035\""
+            },
+            {
+              "name": "Recommended Sheath",
+              "value": "8F"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.su365pf",
+      "sku": "SU365PF",
+      "gtin": "00816959020712",
+      "title": "ProFlex™ 365µm Single-Use Laser Lithotripsy Fiber",
+      "brand": "ProFlex™",
+      "category": "Urologic lasers and laser fibers",
+      "product_family": "ProFlex™ single use laser fibers",
+      "meta_description": "Learn more about ProFlex™ single use laser fibers and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/KS_ProFlex_365_fiber.png"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/urology-and-critical-care/KS_ProFlex_365_fiber.png",
+          "local_path": "images/SU365PF/SU365PF_01.png"
+        }
+      ],
+      "overview_text": "The ProFlex TM Laser Fiber is a fiber optic laser delivery system compatible with a multitude of surgical lasers and usable in a variety of surgical cases. ProFlex TM Laser Fibers feature a patented lens in the connector to condition and collimate energy. BD offers a complete line of fiber sizes and accessories to meet your surgical needs.",
+      "overview_html": "<p>The ProFlex<sup>TM</sup> Laser Fiber is a fiber optic laser delivery system compatible with a multitude of surgical lasers and usable in a variety of surgical cases. ProFlex<sup>TM</sup> Laser Fibers feature a patented lens in the connector to condition and collimate energy. BD offers a complete line of fiber sizes and accessories to meet your surgical needs.</p>",
+      "features_and_benefits": [],
+      "references_html": null,
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00816959020712",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Packaging",
+          "attributes": [
+            {
+              "name": "Quantity",
+              "value": "1 each"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    },
+    {
+      "url": "https://www.bd.com/en-us/products-and-solutions/products/product-page.u35130330",
+      "sku": "U35130330",
+      "gtin": "00801741091759",
+      "title": "Ultraverse™ 035 PTA Dilatation Catheter: 3mm x 300mm, 19 ATM RBP balloon on 130 cm long catheter",
+      "brand": "Ultraverse™",
+      "category": null,
+      "product_family": "Ultraverse™ 035 PTA Dilatation Catheter",
+      "meta_description": "Learn more about Ultraverse™ 035 PTA Dilatation Catheter and other BD products today.",
+      "image_urls": [
+        "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/j0a9glgv04u5frdbqdefupw31jsd7po2.jpg"
+      ],
+      "images": [
+        {
+          "url": "https://www.bd.com/content/dam/bd-assets/bd-com/all-sites-sku-images/peripheral-intervention/j0a9glgv04u5frdbqdefupw31jsd7po2.jpg",
+          "local_path": "images/U35130330/U35130330_01.jpg"
+        }
+      ],
+      "overview_text": "Features: Sheath Profile 5F Compatible up to 8 x 80 mm* Balloon Diameters: 3-12 mm, Balloon Lengths: 20 - 300 mm",
+      "overview_html": "<h3>Features:</h3><ul><li>Sheath Profile 5F Compatible up to 8 x 80 mm*</li><li>Balloon Diameters: 3-12 mm, Balloon Lengths: 20 - 300 mm</li></ul>",
+      "features_and_benefits": [
+        {
+          "heading": "Sheath Profile 5F Compatible up to 8 x 80 mm*",
+          "description": null
+        },
+        {
+          "heading": "Balloon Diameters: 3 – 12 mm, Balloon Lengths: 20 – 300 mm",
+          "description": null
+        },
+        {
+          "heading": "GeoAlign™ Marker Bands are designed to increase procedure efficiency by minimizing fluoroscopy exposure**",
+          "description": null
+        }
+      ],
+      "references_html": "<p>* The GeoAlign™ Marking System is not a replacement for fluoroscopy. When the catheter is exposed to the vascular system, the location of the balloon should be confirmed while under high quality fluoroscopic observation.</p><p>Please consult Instructions for Use for product indications for use, contraindications, warnings, precautions, complications, adverse events and detailed safety information.</p>",
+      "specifications": [
+        {
+          "group": "GTIN",
+          "attributes": [
+            {
+              "name": "GTIN - Each",
+              "value": "00801741091759",
+              "quantity": "1"
+            }
+          ]
+        },
+        {
+          "group": "Product Basic Specification",
+          "attributes": [
+            {
+              "name": "Balloon Diameter",
+              "value": "3 mm"
+            },
+            {
+              "name": "Balloon Length",
+              "value": "300 mm"
+            },
+            {
+              "name": "Catheter Length",
+              "value": "130 cm"
+            },
+            {
+              "name": "Rated Burst Pressure (atm)",
+              "value": "19"
+            },
+            {
+              "name": "Sheath Size",
+              "value": "5"
+            }
+          ]
+        }
+      ],
+      "faq": [],
+      "related_products": []
+    }
+  ]
+}
